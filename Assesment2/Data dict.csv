@@ -1,0 +1,19 @@
+Prospect_DS,
+Column Name,Definition 
+Prospect_ID,Unique identifier for each prospect 
+Campaign_ID,unique identifier for each marketing campaign 
+Company,Prospect's company name
+Job_Title,Prospect's job title
+Score,"Cumulative lead score calculated by the prospect performing various activities (email click, attending webinars etc.)"
+Source,lead generation source for the prospect 
+Lead_Status,updated by the sales team based on their engagement with the prospect (open --> contacting --> qualified; leads can be closed at any stage)
+,
+,
+Visitor activity ,
+Column Name,Definition 
+ID,Unique identifier for each activity record
+Prospect_ID,Unique identifier for each prospect 
+Campaign_ID,unique identifier for each marketing campaign 
+Type,type of activity prospect has performed 
+Activity_Name,name of the activity the prospect has performed 
+Activity_Details,additional details regarding the activity the prospect has performed
