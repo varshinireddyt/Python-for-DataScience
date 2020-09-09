@@ -1,0 +1,2000 @@
+Prospect_ID,Campaign_ID,Company,Job_Title,Score,Source,Lead_Status
+18258198,2013,Brock Tech,Chief of Digital Marketing,65,Website,Open
+18441354,2005,Myxable Co.,Financial Analyst,66,Twitter,Open
+18642577,2009,Polymeris,Procurement Manager,60,Website,Qualified
+18664142,2009,HeidieX,Procurement Manager,65,Instagram,Open
+18344212,2013,Myxable Co.,Senior Director of B2B Marketing,72,Instagram,Closed
+18163974,2005,Gooyer,Contingent Worker,95,Website,Contacting
+18426335,2005,Brock Tech,Procurement Manager,96,Website,Qualified
+18700999,2000,WestLand's Incorporated,CEO,66,Website,Closed
+18639262,2019,Marxel,VP of Daily Operations,50,Facebook,Closed
+18699388,2000,WestLand's Incorporated,Financial Analyst,92,Website,Closed
+18661331,2005,Polymeris,Head of Human Resources,97,Instagram,Closed
+18488346,2001,Lexinton Rig Inc,Business Analyst,58,Webinar,Open
+18574400,2019,Bryxham,Procurement Manager,55,Website,Contacting
+18759613,2019,Bryxham,Financial Analyst,82,Website,Contacting
+18498146,2016,Myxable Co.,Financial Analyst,41,Twitter,Closed
+18321473,2004,Gooyer,CEO,68,Instagram,Open
+18270307,2009,Myxable Co.,VP of Business,80,Twitter,Qualified
+18911540,2004,Lexinton Rig Inc,Business Analyst,40,Website,Qualified
+18247652,2016,Brock Tech,Data Scientist,72,Website,Closed
+18784606,2016,Marxel,President,74,Facebook,Qualified
+18363757,2016,Bryxham,Contingent Worker,53,Facebook,Open
+18744897,2013,Landon's  ,VP of Business,65,Instagram,Closed
+18401047,2019,Landon's  ,VP of Business,87,Webinar,Contacting
+18944899,2001,Lexinton Rig Inc,Procurement Manager,81,Webinar,Closed
+18455014,2005,Brock Tech,VP of Business,79,Facebook,Open
+18755846,2000,Regalchain,Head of Learning and Development,48,LinkedIn,Contacting
+18530466,2019,Marxel,Manager of Business Development,89,LinkedIn,Open
+18511544,2009,Landon's  ,CEO,45,Instagram,Closed
+18394646,2004,Landon's  ,CEO,58,Twitter,Open
+18337533,2013,HeidieX,Senior Director of B2B Marketing,63,Website,Open
+18280877,2005,Gooyer,CEO,50,Webinar,Contacting
+18836865,2004,Polymeris,Procurement Manager,81,Webinar,Contacting
+18794399,2001,Marxel,Procurement Manager,73,LinkedIn,Open
+18804702,2000,Brock Tech,VP of Daily Operations,40,Webinar,Contacting
+18329223,2005,WestLand's Incorporated,VP of Daily Operations,54,Website,Closed
+18449143,2009,WestLand's Incorporated,Procurement Manager,93,Email,Open
+18797878,2009,Polymeris,Head of Learning and Development,37,Facebook,Qualified
+18864324,2013,Bryxham,Business Analyst,62,Website,Contacting
+18771718,2019,WestLand's Incorporated,CEO,44,Email,Open
+18950229,2004,Gooyer,CEO,87,Twitter,Contacting
+18277470,2019,Landon's  ,Contingent Worker,94,Webinar,Qualified
+18924380,2001,Circuit City,Senior Director of B2B Marketing,47,Twitter,Closed
+18439895,2009,HeidieX,Head of Learning and Development,95,Webinar,Closed
+18479144,2005,Lexinton Rig Inc,Head of Human Resources,73,LinkedIn,Closed
+18651491,2016,WestLand's Incorporated,Head of Learning and Development,68,Website,Contacting
+18655461,2009,Landon's  ,Procurement Manager,50,Facebook,Closed
+18217185,2019,Circuit City,Head of Human Resources,91,Facebook,Qualified
+18953603,2000,Circuit City,Manager of Business Development,98,LinkedIn,Qualified
+18856368,2016,Gooyer,Chief of Digital Marketing,43,Facebook,Contacting
+18441741,2001,Regalchain,VP of Daily Operations,83,Website,Open
+18524463,2016,Gooyer,Head of Human Resources,73,Twitter,Qualified
+18719385,2016,Landon's  ,Financial Analyst,58,Website,Qualified
+18381469,2009,Polymeris,CEO,46,Facebook,Open
+18279121,2004,Brock Tech,Procurement Manager,44,LinkedIn,Qualified
+18576127,2004,Polymeris,Chief of Digital Marketing,80,Email,Qualified
+18716417,2004,Lexinton Rig Inc,Chief of Digital Marketing,89,Instagram,Closed
+18657048,2019,WestLand's Incorporated,Director of Marketing,43,LinkedIn,Open
+18629792,2005,Marxel,Contingent Worker,39,Website,Closed
+18445956,2001,Myxable Co.,CEO,64,Facebook,Closed
+18221849,2013,Lexinton Rig Inc,Chief of Digital Marketing,97,Facebook,Closed
+18390269,2019,WestLand's Incorporated,Data Scientist,59,Email,Open
+18939854,2013,WestLand's Incorporated,VP of Daily Operations,59,Facebook,Closed
+18779337,2013,Gooyer,VP of Daily Operations,49,Webinar,Qualified
+18904080,2019,Gooyer,Chief of Digital Marketing,49,Facebook,Qualified
+18816722,2013,WestLand's Incorporated,Chief of Digital Marketing,85,Webinar,Contacting
+18367818,2009,WestLand's Incorporated,Senior Director of B2B Marketing,92,LinkedIn,Open
+18281170,2001,Brock Tech,Data Scientist,72,LinkedIn,Open
+18438904,2009,Bryxham,Director of Marketing,56,Facebook,Contacting
+18705769,2016,Brock Tech,Senior Director of B2B Marketing,38,Website,Closed
+18392912,2016,Brock Tech,Head of Learning and Development,62,Email,Open
+18858552,2013,Lexinton Rig Inc,Senior Director of B2B Marketing,95,Facebook,Qualified
+18343243,2009,Gooyer,Business Analyst,40,Facebook,Open
+18723312,2000,Circuit City,Head of Learning and Development,75,Twitter,Contacting
+18584742,2019,HeidieX,Head of Learning and Development,79,Webinar,Open
+18686014,2019,Gooyer,Head of Learning and Development,76,Twitter,Qualified
+18788746,2005,Gooyer,Procurement Manager,59,Facebook,Contacting
+18520644,2005,Regalchain,Director of Marketing,47,LinkedIn,Qualified
+18756695,2005,Bryxham,Data Scientist,78,Webinar,Contacting
+18288948,2000,Landon's  ,Procurement Manager,77,Webinar,Open
+18642661,2009,Regalchain,Business Analyst,75,Website,Closed
+18405131,2005,Marxel,Business Analyst,72,Facebook,Qualified
+18209443,2001,Circuit City,Data Scientist,43,Facebook,Closed
+18210306,2001,Bryxham,Head of Human Resources,63,Twitter,Open
+18275138,2016,Lexinton Rig Inc,Procurement Manager,84,Email,Contacting
+18176794,2004,Regalchain,Data Scientist,73,Instagram,Closed
+18876880,2013,WestLand's Incorporated,Head of Learning and Development,77,Facebook,Open
+18787086,2000,HeidieX,Business Analyst,76,Twitter,Qualified
+18161557,2013,Gooyer,Financial Analyst,79,Facebook,Closed
+18145069,2001,Gooyer,VP of Daily Operations,93,Facebook,Qualified
+18202005,2001,Circuit City,Financial Analyst,65,Webinar,Qualified
+18315118,2000,Polymeris,VP of Daily Operations,37,Webinar,Qualified
+18869756,2019,Brock Tech,VP of Business,96,LinkedIn,Qualified
+18913236,2004,Myxable Co.,Data Scientist,63,Email,Closed
+18628060,2013,Bryxham,Financial Analyst,49,LinkedIn,Closed
+18433975,2016,Bryxham,Business Analyst,47,Email,Contacting
+18344334,2013,WestLand's Incorporated,Data Scientist,88,Email,Closed
+18235994,2001,Landon's  ,Head of Learning and Development,84,LinkedIn,Qualified
+18329139,2004,Lexinton Rig Inc,Business Analyst,54,Facebook,Contacting
+18769769,2013,Polymeris,Director of Marketing,92,Instagram,Qualified
+18193229,2013,Myxable Co.,President,54,Email,Open
+18682981,2009,Regalchain,Financial Analyst,69,Webinar,Closed
+18587416,2000,Regalchain,President,93,Facebook,Closed
+18547961,2009,Landon's  ,VP of Daily Operations,57,LinkedIn,Closed
+18870427,2005,Regalchain,Head of Learning and Development,91,LinkedIn,Closed
+18966710,2001,Myxable Co.,Head of Learning and Development,57,Twitter,Open
+18403655,2013,Gooyer,President,50,LinkedIn,Open
+18717626,2009,Circuit City,Director of Marketing,54,LinkedIn,Contacting
+18592078,2001,Gooyer,Data Scientist,60,LinkedIn,Open
+18460896,2001,Myxable Co.,Procurement Manager,43,Twitter,Closed
+18917621,2016,WestLand's Incorporated,Senior Director of B2B Marketing,70,LinkedIn,Qualified
+18300069,2009,Bryxham,Financial Analyst,47,LinkedIn,Open
+18568626,2005,WestLand's Incorporated,Contingent Worker,68,Webinar,Qualified
+18805954,2009,HeidieX,CEO,68,Twitter,Contacting
+18988941,2016,Brock Tech,Director of Marketing,69,Email,Open
+18983752,2009,Polymeris,Senior Director of B2B Marketing,56,Twitter,Open
+18346100,2005,Gooyer,Manager of Business Development,61,Webinar,Contacting
+18416984,2004,Marxel,Head of Learning and Development,62,Webinar,Qualified
+18763253,2019,Marxel,Procurement Manager,96,LinkedIn,Qualified
+18264870,2004,HeidieX,Director of Marketing,57,Webinar,Qualified
+18545751,2016,Marxel,VP of Daily Operations,65,LinkedIn,Qualified
+18844774,2016,Lexinton Rig Inc,VP of Daily Operations,43,Email,Closed
+18768366,2004,Marxel,Head of Human Resources,46,LinkedIn,Open
+18251275,2001,Polymeris,Senior Director of B2B Marketing,71,Email,Contacting
+18976595,2000,HeidieX,Senior Director of B2B Marketing,41,Twitter,Qualified
+18995679,2005,Bryxham,VP of Business,55,Email,Qualified
+18355265,2009,Bryxham,Head of Learning and Development,64,Twitter,Closed
+18279824,2009,HeidieX,Head of Human Resources,88,Website,Contacting
+18487695,2013,Lexinton Rig Inc,Director of Marketing,71,Instagram,Closed
+18801198,2019,Polymeris,Contingent Worker,97,Instagram,Closed
+18750254,2019,WestLand's Incorporated,VP of Daily Operations,38,Website,Contacting
+18318436,2005,WestLand's Incorporated,Chief of Digital Marketing,54,Webinar,Open
+18171711,2019,Myxable Co.,CEO,45,Website,Closed
+18292018,2000,Circuit City,VP of Business,51,Instagram,Closed
+18747420,2001,Marxel,CEO,46,Facebook,Contacting
+18815935,2016,WestLand's Incorporated,VP of Business,52,Email,Qualified
+18789316,2019,Myxable Co.,Director of Marketing,50,Webinar,Closed
+18325039,2019,Marxel,Head of Human Resources,97,LinkedIn,Qualified
+18684942,2013,Marxel,VP of Business,53,Email,Closed
+18863174,2019,Circuit City,President,84,Instagram,Closed
+18623124,2000,Brock Tech,Chief of Digital Marketing,86,Website,Qualified
+18662014,2013,WestLand's Incorporated,Chief of Digital Marketing,81,Twitter,Open
+18564299,2009,Bryxham,VP of Daily Operations,44,Twitter,Contacting
+18286581,2001,Myxable Co.,Contingent Worker,67,Facebook,Qualified
+18603537,2016,Marxel,President,62,LinkedIn,Contacting
+18461259,2016,Bryxham,Head of Learning and Development,69,Twitter,Open
+18947865,2001,Gooyer,Chief of Digital Marketing,76,Facebook,Open
+18477167,2019,Circuit City,Data Scientist,90,Email,Qualified
+18643817,2005,WestLand's Incorporated,VP of Business,93,Email,Qualified
+18139963,2019,Landon's  ,Head of Learning and Development,67,Website,Qualified
+18503471,2005,Regalchain,Senior Director of B2B Marketing,65,Facebook,Closed
+18486006,2000,Myxable Co.,Data Scientist,92,Email,Open
+18471060,2005,Bryxham,Data Scientist,87,Twitter,Open
+18686616,2005,HeidieX,Financial Analyst,85,Website,Qualified
+18903839,2019,Landon's  ,Head of Human Resources,44,Instagram,Qualified
+18551859,2013,Landon's  ,Procurement Manager,68,Webinar,Qualified
+18430484,2013,Circuit City,Data Scientist,56,Email,Qualified
+18642408,2001,Bryxham,VP of Daily Operations,79,Twitter,Contacting
+18748038,2013,Polymeris,Senior Director of B2B Marketing,67,Instagram,Closed
+18930780,2001,Gooyer,Contingent Worker,72,Email,Closed
+18649686,2004,Brock Tech,Contingent Worker,44,Instagram,Contacting
+18476898,2001,Marxel,Business Analyst,82,Twitter,Qualified
+18713456,2016,Landon's  ,Manager of Business Development,57,LinkedIn,Contacting
+18509999,2016,Myxable Co.,Senior Director of B2B Marketing,59,Email,Qualified
+18251850,2004,Lexinton Rig Inc,Procurement Manager,60,Facebook,Contacting
+18190001,2019,Myxable Co.,Contingent Worker,95,Facebook,Open
+18165229,2001,Lexinton Rig Inc,Data Scientist,65,Instagram,Qualified
+18468416,2013,Myxable Co.,Procurement Manager,81,LinkedIn,Open
+18456019,2004,Gooyer,Manager of Business Development,59,Website,Open
+18806554,2000,Lexinton Rig Inc,Data Scientist,84,Instagram,Closed
+18545597,2004,Brock Tech,VP of Daily Operations,53,Instagram,Qualified
+18270109,2013,Lexinton Rig Inc,Director of Marketing,61,Email,Contacting
+18807294,2004,Landon's  ,Head of Learning and Development,56,Website,Qualified
+18916341,2000,Landon's  ,Director of Marketing,45,Email,Open
+18779312,2013,Gooyer,VP of Daily Operations,52,Twitter,Qualified
+18156189,2004,Polymeris,VP of Daily Operations,52,Website,Closed
+18339379,2013,Gooyer,VP of Daily Operations,52,Website,Closed
+18204815,2004,Brock Tech,President,49,Twitter,Open
+18774905,2005,Myxable Co.,Head of Human Resources,62,Facebook,Qualified
+18491919,2016,Regalchain,Business Analyst,89,Facebook,Contacting
+18810245,2009,Landon's  ,Head of Human Resources,90,Facebook,Qualified
+18544181,2001,Polymeris,Head of Learning and Development,72,Facebook,Qualified
+18359939,2004,Gooyer,Head of Learning and Development,86,Twitter,Closed
+18856970,2013,Polymeris,Business Analyst,60,Email,Open
+18443880,2001,Brock Tech,Business Analyst,60,LinkedIn,Closed
+18963990,2013,Gooyer,Contingent Worker,59,Facebook,Closed
+18815154,2005,Brock Tech,Director of Marketing,75,LinkedIn,Contacting
+18955300,2000,Lexinton Rig Inc,Business Analyst,51,Facebook,Qualified
+18602141,2000,Circuit City,Business Analyst,70,Twitter,Open
+18760345,2004,Brock Tech,Head of Human Resources,96,Webinar,Open
+18669539,2004,Gooyer,Business Analyst,86,Webinar,Closed
+18567777,2013,Myxable Co.,Financial Analyst,73,Instagram,Contacting
+18178961,2005,Gooyer,VP of Daily Operations,72,Instagram,Closed
+18496660,2013,Landon's  ,Financial Analyst,97,Twitter,Open
+18318622,2016,Lexinton Rig Inc,Data Scientist,75,Email,Qualified
+18382565,2000,Myxable Co.,VP of Business,68,Instagram,Qualified
+18245929,2005,Landon's  ,CEO,80,Email,Qualified
+18956023,2004,Polymeris,CEO,87,Website,Closed
+19002231,2019,Landon's  ,VP of Business,61,LinkedIn,Qualified
+18184307,2005,Landon's  ,Head of Learning and Development,98,Email,Contacting
+18877245,2001,WestLand's Incorporated,VP of Daily Operations,69,LinkedIn,Closed
+18606395,2000,Myxable Co.,VP of Business,75,LinkedIn,Open
+18588684,2019,Regalchain,Data Scientist,97,Email,Qualified
+18353916,2000,WestLand's Incorporated,Head of Human Resources,75,Webinar,Closed
+19007188,2016,Lexinton Rig Inc,Contingent Worker,79,Webinar,Contacting
+18167876,2004,Regalchain,Contingent Worker,85,Twitter,Closed
+18494714,2009,Landon's  ,CEO,66,Website,Open
+18983713,2000,Regalchain,Senior Director of B2B Marketing,97,Instagram,Contacting
+18327512,2013,Brock Tech,VP of Daily Operations,48,Facebook,Closed
+18917641,2009,HeidieX,Data Scientist,57,Email,Contacting
+18201608,2009,Bryxham,Head of Learning and Development,61,Facebook,Qualified
+18327170,2013,Brock Tech,Director of Marketing,43,Facebook,Open
+18530026,2019,Polymeris,VP of Business,36,Webinar,Closed
+18403762,2009,Landon's  ,VP of Business,39,Webinar,Closed
+18638356,2000,Myxable Co.,Manager of Business Development,87,Instagram,Closed
+18732682,2009,Myxable Co.,Senior Director of B2B Marketing,61,Webinar,Closed
+18720267,2004,Landon's  ,Chief of Digital Marketing,97,Webinar,Closed
+18916837,2013,Lexinton Rig Inc,Procurement Manager,47,Webinar,Open
+18826450,2009,Circuit City,Contingent Worker,93,Webinar,Open
+18254286,2013,Brock Tech,Senior Director of B2B Marketing,91,Instagram,Open
+18161868,2000,Regalchain,Data Scientist,58,Twitter,Contacting
+18557411,2005,Polymeris,Director of Marketing,86,Website,Open
+18452861,2019,Marxel,Procurement Manager,90,Email,Open
+18455696,2019,WestLand's Incorporated,Senior Director of B2B Marketing,92,Email,Contacting
+18279879,2004,WestLand's Incorporated,Director of Marketing,42,Facebook,Closed
+18875873,2000,HeidieX,Senior Director of B2B Marketing,85,Instagram,Qualified
+18555931,2001,Gooyer,VP of Business,67,Email,Qualified
+18641699,2009,Bryxham,Data Scientist,55,Instagram,Contacting
+18149014,2005,Landon's  ,Business Analyst,83,Webinar,Closed
+18174941,2001,Circuit City,Financial Analyst,57,Email,Qualified
+18372816,2005,Bryxham,Head of Human Resources,50,Webinar,Contacting
+18367012,2019,Circuit City,Financial Analyst,69,Email,Closed
+18769963,2016,Polymeris,President,82,Webinar,Contacting
+18455198,2000,Brock Tech,Senior Director of B2B Marketing,39,Twitter,Closed
+18442822,2016,Regalchain,Contingent Worker,54,Twitter,Qualified
+18424906,2009,Gooyer,Chief of Digital Marketing,69,LinkedIn,Open
+18152295,2000,Regalchain,Financial Analyst,88,Instagram,Open
+18885523,2016,Circuit City,Chief of Digital Marketing,46,Twitter,Contacting
+18144298,2019,Lexinton Rig Inc,Senior Director of B2B Marketing,65,Facebook,Open
+18168011,2013,Polymeris,Head of Learning and Development,43,Email,Qualified
+18880906,2019,WestLand's Incorporated,Director of Marketing,90,Twitter,Contacting
+18335448,2005,Gooyer,Procurement Manager,90,Webinar,Qualified
+18150602,2013,HeidieX,CEO,38,Twitter,Closed
+18564157,2005,WestLand's Incorporated,Business Analyst,39,Instagram,Qualified
+18312506,2005,HeidieX,VP of Daily Operations,63,Instagram,Qualified
+18420700,2000,Brock Tech,Manager of Business Development,77,Facebook,Open
+18448012,2004,HeidieX,CEO,94,Twitter,Open
+18581840,2005,Circuit City,Chief of Digital Marketing,54,LinkedIn,Open
+18776283,2005,Lexinton Rig Inc,Director of Marketing,40,Twitter,Closed
+18571884,2004,WestLand's Incorporated,Manager of Business Development,77,Email,Open
+18995277,2001,Circuit City,CEO,71,Website,Closed
+18771487,2000,Brock Tech,Head of Learning and Development,51,Website,Qualified
+18300052,2019,Regalchain,Chief of Digital Marketing,78,Website,Contacting
+18836334,2005,HeidieX,President,93,LinkedIn,Contacting
+18956931,2000,Gooyer,CEO,72,Instagram,Closed
+18312040,2001,Bryxham,VP of Daily Operations,97,Webinar,Contacting
+18212737,2019,Brock Tech,Financial Analyst,49,Website,Open
+18487189,2016,Myxable Co.,Manager of Business Development,73,Twitter,Open
+18797484,2013,WestLand's Incorporated,Contingent Worker,52,LinkedIn,Qualified
+18984787,2019,Polymeris,President,90,Facebook,Open
+18863514,2000,HeidieX,Director of Marketing,80,LinkedIn,Closed
+18697358,2013,HeidieX,Head of Learning and Development,69,Instagram,Qualified
+18208424,2000,HeidieX,Manager of Business Development,61,LinkedIn,Qualified
+18466889,2009,HeidieX,Head of Learning and Development,97,Twitter,Contacting
+18740690,2005,Landon's  ,Manager of Business Development,70,Email,Closed
+18317721,2019,Regalchain,Director of Marketing,43,Instagram,Qualified
+18869829,2013,Landon's  ,Financial Analyst,44,Instagram,Contacting
+18239146,2005,HeidieX,Business Analyst,87,Email,Contacting
+18977964,2005,Marxel,Manager of Business Development,44,Twitter,Open
+18528451,2013,WestLand's Incorporated,Director of Marketing,47,Webinar,Open
+18943690,2001,Lexinton Rig Inc,Senior Director of B2B Marketing,86,Twitter,Open
+18375653,2001,WestLand's Incorporated,VP of Business,87,Twitter,Closed
+18153025,2009,Regalchain,VP of Daily Operations,61,LinkedIn,Open
+18505248,2004,Myxable Co.,Financial Analyst,54,LinkedIn,Open
+18966038,2005,Polymeris,Chief of Digital Marketing,78,Email,Closed
+18994395,2001,Brock Tech,Financial Analyst,82,Instagram,Qualified
+18792185,2019,Gooyer,Financial Analyst,85,Instagram,Contacting
+18587553,2005,HeidieX,Head of Learning and Development,80,Webinar,Closed
+18655515,2000,Regalchain,Director of Marketing,84,Webinar,Open
+18928550,2016,Bryxham,Senior Director of B2B Marketing,63,Webinar,Open
+18792708,2016,Brock Tech,Contingent Worker,83,LinkedIn,Open
+18922234,2001,HeidieX,VP of Business,75,LinkedIn,Contacting
+18757148,2016,Gooyer,Director of Marketing,77,Email,Contacting
+18913740,2004,Polymeris,VP of Business,94,Facebook,Qualified
+18579547,2001,Brock Tech,Contingent Worker,41,LinkedIn,Contacting
+18796228,2009,Bryxham,President,93,Facebook,Open
+18878386,2009,Brock Tech,VP of Daily Operations,48,Facebook,Closed
+18366514,2016,Lexinton Rig Inc,Head of Learning and Development,82,Instagram,Open
+18655046,2016,Marxel,CEO,42,Facebook,Contacting
+18544418,2004,Bryxham,Head of Human Resources,73,Facebook,Qualified
+18423446,2009,Circuit City,Head of Human Resources,39,Facebook,Open
+18383528,2009,HeidieX,Data Scientist,93,Twitter,Contacting
+18132616,2001,Myxable Co.,VP of Daily Operations,88,Facebook,Open
+18857863,2013,Gooyer,Manager of Business Development,93,Instagram,Open
+18141392,2009,Myxable Co.,Contingent Worker,47,Webinar,Open
+18626320,2001,Circuit City,Financial Analyst,62,Website,Closed
+18625714,2009,HeidieX,VP of Business,78,Instagram,Open
+18306022,2004,Gooyer,Head of Learning and Development,37,Website,Open
+18857261,2000,Landon's  ,President,80,Website,Contacting
+18536881,2009,Regalchain,VP of Business,97,Twitter,Contacting
+18866814,2016,Landon's  ,Chief of Digital Marketing,45,Instagram,Open
+18217784,2009,Regalchain,Head of Learning and Development,51,Twitter,Closed
+18821609,2009,WestLand's Incorporated,Financial Analyst,68,LinkedIn,Qualified
+18937048,2009,Brock Tech,CEO,48,Facebook,Open
+18298601,2016,Landon's  ,VP of Daily Operations,69,Facebook,Qualified
+18902610,2005,Landon's  ,Business Analyst,48,Instagram,Open
+18293763,2019,Marxel,Financial Analyst,84,LinkedIn,Open
+18548637,2013,HeidieX,President,40,Facebook,Qualified
+18198973,2001,Gooyer,Chief of Digital Marketing,85,Instagram,Open
+18156800,2013,Gooyer,Director of Marketing,51,Webinar,Open
+18967077,2005,Bryxham,President,83,LinkedIn,Open
+18684509,2009,Landon's  ,VP of Daily Operations,65,Webinar,Contacting
+18313278,2009,Bryxham,VP of Daily Operations,76,Twitter,Qualified
+18866075,2009,WestLand's Incorporated,Director of Marketing,48,Twitter,Contacting
+18171218,2004,Myxable Co.,Senior Director of B2B Marketing,62,Webinar,Qualified
+18226728,2004,HeidieX,Senior Director of B2B Marketing,56,Facebook,Closed
+18448082,2016,Landon's  ,Manager of Business Development,37,Twitter,Open
+18878415,2000,Myxable Co.,CEO,97,Website,Qualified
+18340180,2004,Circuit City,President,46,Website,Open
+18409815,2004,Landon's  ,Chief of Digital Marketing,44,Instagram,Closed
+18294924,2019,Myxable Co.,CEO,54,Email,Closed
+18656741,2013,HeidieX,Business Analyst,73,Twitter,Contacting
+18559348,2019,HeidieX,Procurement Manager,54,Twitter,Open
+18659128,2001,Myxable Co.,Procurement Manager,79,Website,Qualified
+18782919,2005,Gooyer,Head of Learning and Development,81,Website,Closed
+18692235,2016,HeidieX,Manager of Business Development,62,Website,Contacting
+18973679,2005,Marxel,VP of Daily Operations,92,Instagram,Closed
+18986133,2000,Circuit City,Business Analyst,43,Twitter,Contacting
+18493332,2004,Lexinton Rig Inc,President,55,LinkedIn,Contacting
+18729211,2004,Landon's  ,Manager of Business Development,59,Twitter,Qualified
+18638801,2005,HeidieX,Contingent Worker,96,Website,Contacting
+18730561,2016,HeidieX,Senior Director of B2B Marketing,93,Facebook,Closed
+18465864,2016,Lexinton Rig Inc,VP of Business,77,Website,Qualified
+18741199,2013,Polymeris,Head of Learning and Development,43,Twitter,Contacting
+18559394,2013,Regalchain,Business Analyst,95,Instagram,Qualified
+18926849,2016,Landon's  ,Business Analyst,68,Website,Qualified
+18405106,2004,Bryxham,Head of Learning and Development,53,Twitter,Open
+18155431,2000,Lexinton Rig Inc,Senior Director of B2B Marketing,51,Webinar,Closed
+18689772,2001,Polymeris,VP of Daily Operations,69,Webinar,Open
+18144422,2019,Lexinton Rig Inc,Contingent Worker,60,Instagram,Contacting
+18197447,2005,Brock Tech,Procurement Manager,63,Website,Qualified
+18518413,2009,Marxel,Data Scientist,87,Email,Open
+18927915,2019,Marxel,Director of Marketing,86,Webinar,Open
+18673737,2005,Bryxham,Contingent Worker,37,Facebook,Contacting
+18575173,2001,Gooyer,VP of Business,93,LinkedIn,Qualified
+18625207,2004,Regalchain,Business Analyst,63,Webinar,Closed
+18192207,2019,Circuit City,Chief of Digital Marketing,80,Website,Contacting
+18280738,2019,Gooyer,Manager of Business Development,64,LinkedIn,Contacting
+18942737,2016,Regalchain,Chief of Digital Marketing,76,Webinar,Contacting
+18809067,2019,Myxable Co.,Head of Learning and Development,71,LinkedIn,Open
+18828585,2004,HeidieX,Contingent Worker,49,Instagram,Closed
+18479353,2005,Polymeris,Financial Analyst,42,Twitter,Open
+18839159,2000,Lexinton Rig Inc,VP of Business,40,Webinar,Closed
+18257330,2004,Lexinton Rig Inc,VP of Business,40,Email,Contacting
+18471455,2005,Circuit City,Manager of Business Development,85,Twitter,Contacting
+18621217,2016,HeidieX,Procurement Manager,62,Facebook,Closed
+18459045,2005,Circuit City,Director of Marketing,70,Instagram,Contacting
+18589581,2000,Lexinton Rig Inc,Procurement Manager,47,Webinar,Open
+18860772,2019,Brock Tech,Head of Learning and Development,91,Email,Closed
+18759930,2019,Lexinton Rig Inc,Procurement Manager,78,Facebook,Closed
+18221608,2009,Regalchain,Senior Director of B2B Marketing,83,Website,Contacting
+18413248,2001,Circuit City,Procurement Manager,61,Instagram,Closed
+18737515,2001,Lexinton Rig Inc,Head of Human Resources,93,Webinar,Qualified
+18691110,2019,Regalchain,VP of Business,68,Webinar,Closed
+18530433,2013,Regalchain,VP of Business,56,Twitter,Qualified
+18867376,2005,Brock Tech,Financial Analyst,45,Instagram,Qualified
+18986191,2001,Brock Tech,CEO,76,Website,Qualified
+18405179,2016,Lexinton Rig Inc,Head of Human Resources,38,Instagram,Closed
+18504132,2013,Brock Tech,VP of Daily Operations,93,Website,Qualified
+18805383,2001,Landon's  ,VP of Business,86,LinkedIn,Qualified
+18967395,2013,Gooyer,VP of Daily Operations,79,Facebook,Contacting
+18855549,2013,Landon's  ,Head of Learning and Development,87,LinkedIn,Closed
+18585732,2016,Lexinton Rig Inc,Manager of Business Development,80,Email,Qualified
+18594012,2001,Regalchain,Chief of Digital Marketing,49,Facebook,Open
+18225787,2000,Polymeris,Contingent Worker,74,Instagram,Contacting
+18565866,2013,Lexinton Rig Inc,VP of Daily Operations,68,Email,Contacting
+18875121,2009,WestLand's Incorporated,Procurement Manager,72,Facebook,Closed
+18321134,2004,Marxel,Procurement Manager,68,Website,Closed
+18866033,2013,Brock Tech,Director of Marketing,78,Twitter,Open
+18450930,2001,Gooyer,Chief of Digital Marketing,74,Website,Qualified
+18815568,2005,Marxel,Chief of Digital Marketing,95,Instagram,Closed
+18852182,2009,Bryxham,Financial Analyst,65,Facebook,Open
+18319947,2019,Regalchain,Head of Human Resources,93,Website,Closed
+18834218,2013,Myxable Co.,Contingent Worker,78,Email,Open
+18263604,2009,HeidieX,Director of Marketing,85,LinkedIn,Qualified
+18261614,2001,Regalchain,Chief of Digital Marketing,98,Instagram,Contacting
+18326841,2019,WestLand's Incorporated,VP of Business,60,Twitter,Closed
+18205536,2013,Gooyer,Manager of Business Development,43,Twitter,Closed
+18535543,2009,Marxel,CEO,52,Twitter,Qualified
+18888311,2009,Lexinton Rig Inc,Business Analyst,65,Email,Contacting
+18806679,2005,WestLand's Incorporated,VP of Business,48,Facebook,Open
+18984041,2016,Lexinton Rig Inc,Procurement Manager,88,Instagram,Open
+18590557,2001,Brock Tech,Manager of Business Development,69,Instagram,Closed
+18279511,2009,HeidieX,Financial Analyst,93,Email,Open
+18376986,2016,Myxable Co.,CEO,45,Facebook,Contacting
+18186027,2005,Landon's  ,Senior Director of B2B Marketing,58,Twitter,Qualified
+18722037,2009,Circuit City,CEO,73,Twitter,Contacting
+18690152,2016,Gooyer,Director of Marketing,75,Website,Qualified
+18969600,2000,Landon's  ,CEO,36,LinkedIn,Qualified
+18492360,2013,Regalchain,Head of Learning and Development,56,LinkedIn,Closed
+18508359,2001,Regalchain,Chief of Digital Marketing,51,LinkedIn,Contacting
+18966347,2009,Bryxham,President,73,Facebook,Open
+18322105,2004,Brock Tech,Data Scientist,72,Email,Contacting
+18147666,2016,Brock Tech,Head of Human Resources,51,Facebook,Contacting
+18603023,2019,Brock Tech,Manager of Business Development,58,Twitter,Contacting
+18989396,2000,Lexinton Rig Inc,President,90,Instagram,Qualified
+18258975,2016,Landon's  ,President,51,Facebook,Qualified
+18868703,2013,Landon's  ,Procurement Manager,86,LinkedIn,Contacting
+18615206,2009,Polymeris,Manager of Business Development,75,Instagram,Contacting
+18563332,2016,Polymeris,Financial Analyst,96,LinkedIn,Open
+18332544,2016,WestLand's Incorporated,Head of Learning and Development,78,Email,Closed
+18615778,2000,Gooyer,Head of Learning and Development,47,Facebook,Qualified
+18192232,2001,Brock Tech,President,83,Facebook,Contacting
+18541702,2004,Circuit City,Manager of Business Development,37,Webinar,Qualified
+18827818,2013,Circuit City,Financial Analyst,43,Website,Closed
+18524057,2019,Bryxham,CEO,38,Twitter,Open
+18925459,2000,HeidieX,Chief of Digital Marketing,77,Facebook,Qualified
+18783759,2009,Landon's  ,Head of Learning and Development,55,Facebook,Qualified
+18186224,2000,Circuit City,Chief of Digital Marketing,97,Email,Qualified
+18378931,2009,Bryxham,Financial Analyst,68,Webinar,Qualified
+18157134,2005,Myxable Co.,Financial Analyst,63,Email,Qualified
+18242438,2016,Lexinton Rig Inc,President,62,LinkedIn,Closed
+18862168,2001,Circuit City,VP of Business,95,Facebook,Open
+18883542,2004,HeidieX,Senior Director of B2B Marketing,85,Webinar,Closed
+18620323,2005,Marxel,Business Analyst,71,LinkedIn,Closed
+18503526,2009,Myxable Co.,Business Analyst,51,Website,Contacting
+18138415,2005,Lexinton Rig Inc,Contingent Worker,77,Twitter,Contacting
+18337704,2005,Landon's  ,President,53,Email,Closed
+18520807,2019,Circuit City,VP of Business,79,LinkedIn,Closed
+18572058,2016,Bryxham,Financial Analyst,68,Webinar,Contacting
+18854735,2000,Lexinton Rig Inc,CEO,89,Instagram,Qualified
+18309773,2013,Bryxham,Financial Analyst,47,Twitter,Closed
+18989471,2019,WestLand's Incorporated,Senior Director of B2B Marketing,46,Facebook,Closed
+18681928,2000,Brock Tech,VP of Business,75,Facebook,Closed
+18816867,2000,Circuit City,Data Scientist,87,Instagram,Open
+18168309,2001,Regalchain,Financial Analyst,51,Facebook,Qualified
+18873142,2013,HeidieX,Head of Learning and Development,67,Twitter,Qualified
+18482635,2016,Marxel,Contingent Worker,93,Webinar,Open
+18162629,2019,Regalchain,Manager of Business Development,73,LinkedIn,Open
+18323822,2005,HeidieX,Procurement Manager,92,Website,Closed
+18795310,2016,Polymeris,Contingent Worker,95,LinkedIn,Qualified
+18514622,2019,WestLand's Incorporated,CEO,80,Facebook,Qualified
+18278848,2009,HeidieX,Chief of Digital Marketing,72,Webinar,Qualified
+18491709,2001,Gooyer,CEO,44,Email,Contacting
+19005323,2009,HeidieX,Data Scientist,84,Twitter,Closed
+18284769,2019,Gooyer,Director of Marketing,42,LinkedIn,Open
+18983176,2004,Myxable Co.,President,55,LinkedIn,Qualified
+18384200,2000,Marxel,Financial Analyst,77,LinkedIn,Contacting
+18842517,2005,Marxel,Senior Director of B2B Marketing,37,Webinar,Open
+18839787,2013,Circuit City,Chief of Digital Marketing,90,Instagram,Closed
+18858923,2000,Brock Tech,CEO,87,Website,Contacting
+18657658,2009,HeidieX,VP of Business,77,Instagram,Qualified
+18573186,2013,Circuit City,Financial Analyst,43,Website,Closed
+18704454,2019,Landon's  ,Data Scientist,67,Website,Closed
+18240834,2016,Brock Tech,Contingent Worker,85,Webinar,Contacting
+18562664,2000,Landon's  ,Chief of Digital Marketing,92,LinkedIn,Open
+18195623,2013,Lexinton Rig Inc,President,49,Webinar,Closed
+18683247,2005,Bryxham,Chief of Digital Marketing,94,Instagram,Open
+18280475,2004,Landon's  ,President,58,Twitter,Closed
+18897174,2013,Myxable Co.,Chief of Digital Marketing,83,Website,Qualified
+18322169,2009,Regalchain,Contingent Worker,82,Email,Closed
+18910027,2004,Bryxham,Head of Learning and Development,82,LinkedIn,Contacting
+18462211,2004,Landon's  ,Data Scientist,85,Website,Qualified
+18955222,2009,Polymeris,CEO,53,Instagram,Open
+18918994,2005,WestLand's Incorporated,Manager of Business Development,48,Website,Contacting
+18864691,2000,Landon's  ,Head of Learning and Development,88,LinkedIn,Closed
+18747069,2001,Regalchain,Director of Marketing,61,Twitter,Open
+18752190,2009,Circuit City,Contingent Worker,96,Website,Closed
+18172296,2009,Myxable Co.,Business Analyst,70,Instagram,Open
+18173554,2019,Myxable Co.,Contingent Worker,73,Facebook,Qualified
+18184985,2001,Polymeris,Head of Learning and Development,42,Instagram,Contacting
+18555787,2019,Gooyer,CEO,38,Webinar,Closed
+18444232,2004,HeidieX,Head of Human Resources,37,Webinar,Qualified
+18485917,2019,Regalchain,Manager of Business Development,81,Website,Contacting
+18496390,2019,Brock Tech,Head of Learning and Development,66,Website,Closed
+18706828,2004,Circuit City,CEO,54,Email,Contacting
+18663764,2013,Myxable Co.,Director of Marketing,86,Instagram,Contacting
+18611082,2001,Circuit City,Financial Analyst,89,LinkedIn,Contacting
+18869503,2013,Brock Tech,Chief of Digital Marketing,70,Website,Qualified
+18131154,2019,Brock Tech,President,48,Facebook,Open
+18739354,2000,Landon's  ,Head of Learning and Development,44,Email,Open
+18739059,2013,Regalchain,Data Scientist,49,Website,Closed
+18839419,2019,Bryxham,Data Scientist,40,Email,Open
+18137069,2005,Gooyer,Contingent Worker,58,LinkedIn,Open
+18258796,2004,Lexinton Rig Inc,Data Scientist,54,Website,Closed
+18780251,2016,Landon's  ,Manager of Business Development,98,Instagram,Open
+18987212,2019,Circuit City,Manager of Business Development,83,Facebook,Closed
+18659475,2009,HeidieX,Manager of Business Development,97,Website,Closed
+18772939,2016,Regalchain,Director of Marketing,84,Website,Closed
+18872508,2009,Regalchain,Contingent Worker,37,Twitter,Qualified
+18377939,2004,Regalchain,Contingent Worker,67,Instagram,Closed
+18441033,2009,Myxable Co.,VP of Business,97,Email,Contacting
+18410113,2016,Circuit City,President,69,Twitter,Open
+18333283,2004,Circuit City,Head of Human Resources,54,LinkedIn,Open
+18588480,2019,WestLand's Incorporated,Data Scientist,69,Facebook,Contacting
+18349432,2001,Regalchain,Head of Learning and Development,84,Twitter,Qualified
+18448319,2005,Circuit City,Chief of Digital Marketing,68,Webinar,Open
+18748613,2005,WestLand's Incorporated,Director of Marketing,77,Instagram,Qualified
+18568112,2000,Polymeris,VP of Daily Operations,40,LinkedIn,Open
+18798031,2019,Lexinton Rig Inc,Procurement Manager,72,Email,Closed
+18362057,2009,WestLand's Incorporated,Financial Analyst,91,Twitter,Qualified
+18207853,2009,Regalchain,Procurement Manager,39,Website,Closed
+18431967,2004,Landon's  ,VP of Daily Operations,53,LinkedIn,Open
+18761402,2016,Myxable Co.,Data Scientist,39,Twitter,Open
+18255673,2000,Myxable Co.,Data Scientist,49,Facebook,Closed
+18686697,2016,Myxable Co.,Manager of Business Development,43,Facebook,Open
+18337986,2000,HeidieX,CEO,53,Instagram,Contacting
+18277746,2005,Myxable Co.,Head of Learning and Development,44,Instagram,Qualified
+18242328,2004,Brock Tech,President,93,Website,Contacting
+18984779,2013,Bryxham,VP of Business,98,Website,Qualified
+18446909,2019,Lexinton Rig Inc,Head of Human Resources,60,Webinar,Qualified
+18412285,2005,Gooyer,Data Scientist,40,Email,Qualified
+18785940,2016,WestLand's Incorporated,President,46,Facebook,Contacting
+18670354,2009,Circuit City,Director of Marketing,37,Facebook,Open
+18738877,2016,Bryxham,Senior Director of B2B Marketing,81,Website,Contacting
+18821341,2005,WestLand's Incorporated,Senior Director of B2B Marketing,94,Website,Open
+18617800,2004,Bryxham,Chief of Digital Marketing,68,Facebook,Qualified
+18810756,2016,Regalchain,Chief of Digital Marketing,64,Website,Open
+18451189,2009,Gooyer,Procurement Manager,38,Instagram,Contacting
+18564093,2005,Regalchain,Business Analyst,73,Website,Contacting
+18895942,2004,HeidieX,Financial Analyst,60,LinkedIn,Closed
+18926435,2005,HeidieX,Director of Marketing,45,Webinar,Closed
+18671908,2016,WestLand's Incorporated,Director of Marketing,83,Email,Qualified
+18991951,2004,WestLand's Incorporated,Head of Human Resources,52,Twitter,Contacting
+18557157,2013,Gooyer,VP of Daily Operations,37,Website,Closed
+18443514,2016,Marxel,Contingent Worker,83,Email,Closed
+18153730,2019,Polymeris,President,59,Website,Qualified
+18308646,2001,Regalchain,Financial Analyst,77,Facebook,Closed
+18955856,2019,Marxel,Business Analyst,68,Twitter,Closed
+18674502,2005,Polymeris,Chief of Digital Marketing,45,Twitter,Open
+18158147,2000,Gooyer,Financial Analyst,39,Twitter,Open
+18859860,2001,Brock Tech,Chief of Digital Marketing,56,Webinar,Contacting
+18653758,2005,Myxable Co.,Business Analyst,45,Facebook,Open
+19005048,2016,Marxel,President,96,Email,Closed
+18896263,2013,Bryxham,Chief of Digital Marketing,71,Instagram,Contacting
+18834614,2013,HeidieX,Director of Marketing,78,LinkedIn,Contacting
+18754109,2004,Myxable Co.,Director of Marketing,42,Email,Qualified
+18431874,2019,Landon's  ,Director of Marketing,87,Email,Open
+18978035,2000,Myxable Co.,Data Scientist,74,LinkedIn,Open
+18541859,2016,Marxel,Business Analyst,73,LinkedIn,Open
+18430606,2016,WestLand's Incorporated,Chief of Digital Marketing,66,Website,Open
+18823799,2004,Landon's  ,Head of Learning and Development,75,LinkedIn,Closed
+18630555,2019,Marxel,Data Scientist,90,LinkedIn,Open
+18932988,2009,Gooyer,Director of Marketing,39,Website,Qualified
+18561422,2013,WestLand's Incorporated,Financial Analyst,90,Facebook,Qualified
+18268171,2004,WestLand's Incorporated,Business Analyst,90,Facebook,Closed
+18689980,2001,WestLand's Incorporated,VP of Daily Operations,83,Website,Qualified
+18603915,2001,Polymeris,VP of Daily Operations,50,Website,Contacting
+18917575,2005,Polymeris,Contingent Worker,64,Instagram,Contacting
+18148408,2013,WestLand's Incorporated,Director of Marketing,92,LinkedIn,Open
+18507551,2009,Polymeris,Director of Marketing,83,Instagram,Closed
+18790505,2005,Myxable Co.,Data Scientist,89,Twitter,Qualified
+18990876,2004,Gooyer,Head of Human Resources,66,Instagram,Contacting
+19004520,2013,Lexinton Rig Inc,CEO,60,Twitter,Contacting
+18826056,2005,Gooyer,Procurement Manager,49,Website,Open
+18243419,2000,Circuit City,Senior Director of B2B Marketing,72,Email,Closed
+18717458,2013,Myxable Co.,Business Analyst,58,LinkedIn,Contacting
+18815957,2019,Brock Tech,VP of Daily Operations,62,Twitter,Open
+18912116,2005,Lexinton Rig Inc,Financial Analyst,92,LinkedIn,Qualified
+18489356,2004,Landon's  ,Head of Learning and Development,88,Twitter,Contacting
+18496811,2016,Lexinton Rig Inc,President,57,Website,Qualified
+18793594,2009,Bryxham,VP of Daily Operations,43,Webinar,Qualified
+18683976,2000,Brock Tech,VP of Business,59,Webinar,Contacting
+18626194,2005,Myxable Co.,Data Scientist,38,LinkedIn,Open
+18818140,2016,Bryxham,Director of Marketing,95,LinkedIn,Open
+18774652,2019,Regalchain,VP of Business,51,LinkedIn,Open
+18647483,2016,Gooyer,VP of Business,50,LinkedIn,Closed
+18847382,2016,Myxable Co.,Head of Learning and Development,87,Webinar,Contacting
+18988877,2009,HeidieX,Head of Learning and Development,62,Twitter,Contacting
+18986586,2016,Landon's  ,Manager of Business Development,62,Email,Open
+18308657,2016,Circuit City,Senior Director of B2B Marketing,54,Webinar,Closed
+18737960,2016,Brock Tech,Financial Analyst,77,Instagram,Contacting
+18654969,2009,WestLand's Incorporated,Data Scientist,97,LinkedIn,Qualified
+18470594,2009,Myxable Co.,President,85,Instagram,Closed
+18256244,2013,Circuit City,CEO,84,Webinar,Contacting
+18422004,2004,Marxel,CEO,86,LinkedIn,Contacting
+18505144,2019,Bryxham,Head of Human Resources,48,Twitter,Qualified
+18411791,2013,Circuit City,Data Scientist,53,Website,Open
+18581320,2019,Landon's  ,Data Scientist,65,LinkedIn,Contacting
+18724844,2009,Bryxham,President,82,Webinar,Qualified
+18694558,2009,Bryxham,Director of Marketing,83,Instagram,Contacting
+18294499,2009,Lexinton Rig Inc,Head of Learning and Development,38,Website,Closed
+18325110,2013,Polymeris,Head of Learning and Development,86,Webinar,Open
+18178172,2005,Myxable Co.,CEO,97,Website,Qualified
+18500767,2016,Gooyer,Procurement Manager,57,Twitter,Contacting
+18743804,2009,Bryxham,Manager of Business Development,73,Twitter,Contacting
+18496912,2004,Landon's  ,President,46,LinkedIn,Qualified
+18927001,2005,Marxel,VP of Business,51,Twitter,Closed
+18436167,2004,Polymeris,Business Analyst,39,Website,Qualified
+18512545,2009,Bryxham,Head of Learning and Development,51,Instagram,Contacting
+18943397,2000,Lexinton Rig Inc,Head of Human Resources,67,Webinar,Contacting
+18225865,2005,Brock Tech,Head of Human Resources,71,Twitter,Qualified
+18841376,2000,Myxable Co.,Chief of Digital Marketing,93,Facebook,Open
+18801562,2004,Landon's  ,Procurement Manager,52,LinkedIn,Qualified
+18483353,2000,Brock Tech,Data Scientist,50,Instagram,Contacting
+18288430,2001,HeidieX,VP of Daily Operations,83,Webinar,Qualified
+18922461,2001,Marxel,VP of Daily Operations,65,Instagram,Qualified
+18909167,2016,Polymeris,Financial Analyst,87,Email,Qualified
+18356454,2019,HeidieX,Chief of Digital Marketing,94,Email,Open
+18199610,2013,Myxable Co.,Director of Marketing,48,Webinar,Contacting
+18275887,2005,Regalchain,Data Scientist,45,Instagram,Open
+18396443,2001,WestLand's Incorporated,CEO,65,Email,Contacting
+18139559,2000,HeidieX,VP of Daily Operations,53,Webinar,Closed
+18785191,2005,Gooyer,Data Scientist,70,Facebook,Open
+18517181,2009,Regalchain,Procurement Manager,43,Twitter,Qualified
+18450274,2009,HeidieX,VP of Business,91,Webinar,Contacting
+18233364,2004,Circuit City,Contingent Worker,72,Twitter,Contacting
+18298318,2005,Landon's  ,Chief of Digital Marketing,52,Facebook,Qualified
+18169711,2001,Brock Tech,Financial Analyst,88,Email,Closed
+18345737,2013,Regalchain,Data Scientist,56,Website,Qualified
+18150263,2004,Regalchain,CEO,36,Facebook,Open
+18251451,2000,HeidieX,VP of Daily Operations,62,Facebook,Closed
+18981731,2005,Lexinton Rig Inc,Procurement Manager,37,LinkedIn,Open
+18258205,2000,Landon's  ,Manager of Business Development,67,Twitter,Qualified
+18796217,2016,Marxel,Director of Marketing,58,Website,Open
+18229961,2013,Marxel,Financial Analyst,83,Webinar,Contacting
+18310442,2016,Circuit City,VP of Daily Operations,90,Email,Closed
+18831579,2019,Marxel,Financial Analyst,61,Website,Closed
+18789353,2004,Lexinton Rig Inc,VP of Daily Operations,93,Facebook,Qualified
+18637596,2016,Brock Tech,Head of Human Resources,93,Webinar,Qualified
+18326339,2005,WestLand's Incorporated,Financial Analyst,84,Website,Contacting
+18621378,2019,Gooyer,Contingent Worker,93,Webinar,Open
+18158518,2001,Bryxham,CEO,94,Instagram,Open
+18571773,2000,Marxel,CEO,95,Email,Contacting
+18281909,2013,Marxel,CEO,40,Email,Open
+18828131,2005,Regalchain,Senior Director of B2B Marketing,61,Instagram,Closed
+18219499,2016,WestLand's Incorporated,President,48,Facebook,Open
+19007025,2016,Myxable Co.,Data Scientist,67,Instagram,Qualified
+18171673,2013,Brock Tech,Head of Human Resources,81,LinkedIn,Contacting
+18386877,2001,Marxel,Manager of Business Development,87,Twitter,Qualified
+18133120,2004,Lexinton Rig Inc,VP of Business,60,Email,Qualified
+18943850,2001,Lexinton Rig Inc,Business Analyst,77,Facebook,Open
+18717447,2000,HeidieX,Senior Director of B2B Marketing,44,Facebook,Closed
+18930394,2000,Regalchain,VP of Daily Operations,55,Email,Closed
+18872235,2000,WestLand's Incorporated,Director of Marketing,57,Email,Open
+18740110,2001,Polymeris,Contingent Worker,68,Twitter,Open
+18418646,2000,Regalchain,Business Analyst,54,Instagram,Closed
+18460613,2016,Brock Tech,Data Scientist,58,Twitter,Contacting
+18200762,2001,Circuit City,Contingent Worker,44,Twitter,Closed
+18333946,2019,Polymeris,Chief of Digital Marketing,49,Facebook,Open
+18207413,2016,Lexinton Rig Inc,President,96,Facebook,Qualified
+18825614,2019,Landon's  ,VP of Daily Operations,68,Website,Qualified
+18828017,2016,HeidieX,Data Scientist,64,Twitter,Open
+18478372,2013,Bryxham,Head of Human Resources,50,Email,Open
+18782594,2004,Polymeris,President,73,Email,Contacting
+18188758,2016,Landon's  ,Head of Learning and Development,91,Twitter,Contacting
+18272717,2004,Marxel,Contingent Worker,37,Instagram,Closed
+18479130,2016,Circuit City,Data Scientist,67,Instagram,Qualified
+18565901,2005,Circuit City,CEO,59,Email,Closed
+18762795,2016,Polymeris,President,62,Website,Open
+18239792,2001,Regalchain,Procurement Manager,38,LinkedIn,Contacting
+18787907,2009,Circuit City,Contingent Worker,50,Website,Open
+18250434,2009,Circuit City,Data Scientist,82,Webinar,Closed
+18890305,2009,Gooyer,Business Analyst,87,Facebook,Qualified
+18393739,2001,Circuit City,Head of Learning and Development,61,Twitter,Contacting
+18176475,2000,HeidieX,President,50,Instagram,Qualified
+18378899,2005,Circuit City,President,88,Facebook,Qualified
+18658428,2000,Bryxham,Manager of Business Development,96,Webinar,Contacting
+18163112,2009,Gooyer,President,37,Twitter,Contacting
+18957508,2004,Circuit City,Chief of Digital Marketing,70,Webinar,Qualified
+18308971,2000,Marxel,VP of Business,74,Website,Qualified
+18868205,2005,WestLand's Incorporated,VP of Daily Operations,54,Facebook,Open
+18842574,2016,Marxel,Manager of Business Development,89,Webinar,Closed
+18479388,2001,WestLand's Incorporated,Data Scientist,76,Twitter,Closed
+18493812,2004,Regalchain,VP of Business,57,LinkedIn,Closed
+18562968,2013,Landon's  ,Manager of Business Development,72,LinkedIn,Contacting
+18279148,2016,Circuit City,Procurement Manager,72,Webinar,Closed
+18340014,2000,Lexinton Rig Inc,Senior Director of B2B Marketing,60,Webinar,Contacting
+18177571,2016,Regalchain,CEO,95,Instagram,Closed
+18944107,2001,Gooyer,VP of Daily Operations,93,Facebook,Contacting
+18211793,2009,Brock Tech,CEO,97,Instagram,Closed
+18508757,2019,Brock Tech,Director of Marketing,85,Twitter,Open
+18473498,2019,Bryxham,Business Analyst,87,Instagram,Open
+18572648,2019,Regalchain,Business Analyst,69,Instagram,Contacting
+18804887,2009,HeidieX,Head of Learning and Development,89,Twitter,Contacting
+18351933,2005,Gooyer,President,75,Website,Open
+18566068,2009,Circuit City,Financial Analyst,68,Webinar,Qualified
+18381844,2013,Polymeris,Financial Analyst,66,Webinar,Contacting
+18311692,2005,HeidieX,CEO,86,Instagram,Open
+18842096,2005,WestLand's Incorporated,Chief of Digital Marketing,85,Instagram,Qualified
+18408917,2016,Polymeris,Chief of Digital Marketing,67,Email,Qualified
+18470920,2013,Brock Tech,Senior Director of B2B Marketing,69,Instagram,Open
+18817135,2013,WestLand's Incorporated,Head of Learning and Development,46,Instagram,Closed
+18650841,2016,Marxel,Head of Human Resources,53,Instagram,Contacting
+18520979,2004,Circuit City,Senior Director of B2B Marketing,51,LinkedIn,Open
+18352589,2004,Myxable Co.,Chief of Digital Marketing,39,Twitter,Qualified
+18933590,2005,HeidieX,Director of Marketing,83,LinkedIn,Open
+18580855,2004,Regalchain,Data Scientist,87,Facebook,Qualified
+18455388,2005,HeidieX,Financial Analyst,57,Twitter,Contacting
+18507158,2004,Landon's  ,Contingent Worker,86,Webinar,Closed
+18505536,2001,Polymeris,VP of Business,83,Instagram,Qualified
+18658059,2005,HeidieX,Head of Learning and Development,70,LinkedIn,Open
+18287275,2004,HeidieX,Financial Analyst,39,Facebook,Open
+18631762,2005,Gooyer,President,47,Twitter,Closed
+18971825,2005,Circuit City,Head of Learning and Development,39,Facebook,Contacting
+18312064,2019,Polymeris,Director of Marketing,48,Website,Open
+18448720,2016,Lexinton Rig Inc,Data Scientist,80,Webinar,Open
+18870422,2004,Polymeris,CEO,60,Twitter,Closed
+18754925,2005,Polymeris,Business Analyst,95,LinkedIn,Open
+18479309,2019,Marxel,VP of Business,41,Website,Closed
+18450204,2009,WestLand's Incorporated,Contingent Worker,88,Twitter,Open
+18152659,2019,Regalchain,Chief of Digital Marketing,38,Instagram,Open
+18719230,2005,Myxable Co.,Manager of Business Development,66,Twitter,Qualified
+18498835,2005,Brock Tech,Contingent Worker,55,Instagram,Contacting
+18666081,2019,Lexinton Rig Inc,Manager of Business Development,66,Facebook,Open
+18167529,2009,WestLand's Incorporated,Procurement Manager,67,Twitter,Qualified
+18277608,2013,Regalchain,Director of Marketing,46,Website,Qualified
+18677126,2005,WestLand's Incorporated,Director of Marketing,75,Twitter,Closed
+18464795,2005,Regalchain,Contingent Worker,72,Website,Qualified
+18645020,2004,Myxable Co.,Data Scientist,46,Webinar,Open
+18593129,2000,Circuit City,President,54,LinkedIn,Open
+18210096,2000,Myxable Co.,Data Scientist,73,Webinar,Contacting
+18364269,2019,Myxable Co.,Head of Learning and Development,67,Email,Qualified
+18722373,2009,Myxable Co.,CEO,90,Instagram,Closed
+18993328,2000,Marxel,President,87,Twitter,Contacting
+18182250,2013,Regalchain,Contingent Worker,73,Facebook,Contacting
+18692942,2000,Myxable Co.,Financial Analyst,62,Email,Qualified
+18511341,2005,Lexinton Rig Inc,Data Scientist,93,Webinar,Closed
+18769387,2009,Circuit City,VP of Business,66,Webinar,Qualified
+18583877,2009,Marxel,Director of Marketing,49,Email,Contacting
+18913880,2016,WestLand's Incorporated,VP of Daily Operations,38,Facebook,Closed
+18575519,2013,Myxable Co.,Senior Director of B2B Marketing,38,Instagram,Contacting
+18280180,2019,Gooyer,President,84,Website,Closed
+18840755,2004,Polymeris,Procurement Manager,36,Webinar,Closed
+18794376,2019,Lexinton Rig Inc,President,50,Facebook,Open
+18739861,2005,Brock Tech,Business Analyst,67,LinkedIn,Open
+18861622,2001,Lexinton Rig Inc,President,78,Facebook,Closed
+18719103,2005,Circuit City,Procurement Manager,81,Instagram,Closed
+18261537,2001,Circuit City,Senior Director of B2B Marketing,83,Webinar,Contacting
+18986404,2013,HeidieX,Director of Marketing,72,LinkedIn,Open
+18617943,2013,Bryxham,Business Analyst,66,Webinar,Qualified
+18400235,2013,Brock Tech,CEO,72,LinkedIn,Contacting
+18255817,2005,HeidieX,CEO,95,Webinar,Qualified
+18132096,2016,Myxable Co.,VP of Business,61,Instagram,Qualified
+18342425,2005,Circuit City,Data Scientist,54,LinkedIn,Contacting
+18300911,2001,Gooyer,Procurement Manager,90,LinkedIn,Qualified
+18373246,2019,Regalchain,Senior Director of B2B Marketing,54,Facebook,Open
+18790450,2009,Brock Tech,Senior Director of B2B Marketing,98,Facebook,Open
+18197232,2016,Gooyer,Manager of Business Development,62,Twitter,Contacting
+18486904,2001,Polymeris,Manager of Business Development,65,Email,Open
+18981652,2000,Gooyer,VP of Business,82,Website,Contacting
+18300682,2016,Landon's  ,Head of Human Resources,79,Instagram,Contacting
+18470874,2004,Polymeris,Head of Learning and Development,85,LinkedIn,Open
+18863042,2005,Gooyer,Financial Analyst,71,Twitter,Closed
+18939223,2009,Marxel,Director of Marketing,83,Webinar,Closed
+18688867,2001,Regalchain,Senior Director of B2B Marketing,87,Twitter,Contacting
+18816282,2005,Regalchain,CEO,45,Twitter,Qualified
+18199553,2009,Lexinton Rig Inc,Data Scientist,40,LinkedIn,Qualified
+18406344,2019,Regalchain,VP of Daily Operations,69,Instagram,Contacting
+18856860,2013,Marxel,Data Scientist,81,LinkedIn,Closed
+18898855,2004,Landon's  ,Senior Director of B2B Marketing,53,LinkedIn,Closed
+18435982,2013,Bryxham,VP of Business,82,Twitter,Qualified
+18519054,2016,Marxel,Manager of Business Development,96,Webinar,Qualified
+18316740,2000,Polymeris,Chief of Digital Marketing,84,Webinar,Contacting
+18887099,2004,WestLand's Incorporated,VP of Daily Operations,39,Instagram,Qualified
+18706975,2009,HeidieX,CEO,62,Twitter,Closed
+18295415,2001,HeidieX,Procurement Manager,86,LinkedIn,Contacting
+18890749,2019,Regalchain,Head of Human Resources,72,LinkedIn,Qualified
+18963359,2013,Bryxham,Head of Learning and Development,64,Email,Contacting
+18910946,2016,Regalchain,Procurement Manager,89,Webinar,Open
+18924070,2004,Polymeris,Procurement Manager,98,Facebook,Qualified
+18333961,2001,Circuit City,Manager of Business Development,77,Website,Qualified
+18770374,2004,Lexinton Rig Inc,Manager of Business Development,42,Website,Closed
+19007149,2000,Lexinton Rig Inc,Financial Analyst,69,Instagram,Qualified
+18738839,2004,Circuit City,Contingent Worker,49,Website,Open
+18406355,2005,Regalchain,CEO,43,Instagram,Open
+18860398,2019,WestLand's Incorporated,Financial Analyst,69,Twitter,Open
+18230266,2005,Polymeris,Head of Human Resources,45,Instagram,Open
+18516586,2009,Brock Tech,Director of Marketing,52,Facebook,Open
+18573878,2016,Myxable Co.,Director of Marketing,54,Facebook,Open
+18933935,2019,Lexinton Rig Inc,Head of Human Resources,52,Email,Qualified
+18663616,2004,HeidieX,Director of Marketing,69,LinkedIn,Qualified
+18515488,2004,HeidieX,Contingent Worker,98,Webinar,Qualified
+18676648,2005,Bryxham,Data Scientist,36,Webinar,Contacting
+18944312,2001,Circuit City,Financial Analyst,70,Website,Contacting
+18511514,2016,Regalchain,Procurement Manager,78,Website,Qualified
+18642560,2009,Landon's  ,Head of Human Resources,58,Instagram,Qualified
+18302417,2016,Myxable Co.,Head of Human Resources,72,Instagram,Contacting
+18969960,2019,HeidieX,Business Analyst,54,Instagram,Qualified
+18537603,2019,Brock Tech,VP of Business,97,Twitter,Open
+18206357,2009,Marxel,Chief of Digital Marketing,49,Webinar,Contacting
+18727974,2016,Circuit City,Manager of Business Development,88,Facebook,Open
+18240827,2004,Brock Tech,Senior Director of B2B Marketing,72,Webinar,Qualified
+18945576,2019,Myxable Co.,Chief of Digital Marketing,43,Website,Contacting
+18718945,2000,Circuit City,Senior Director of B2B Marketing,68,Instagram,Qualified
+18295051,2019,Regalchain,President,42,Website,Qualified
+18653547,2001,Gooyer,VP of Business,39,LinkedIn,Open
+18602767,2013,WestLand's Incorporated,Manager of Business Development,69,Email,Contacting
+18756299,2000,Polymeris,Manager of Business Development,49,Twitter,Closed
+18614194,2019,WestLand's Incorporated,Data Scientist,47,Email,Contacting
+18149121,2000,Landon's  ,Financial Analyst,74,Website,Open
+18586343,2013,HeidieX,CEO,96,Website,Open
+18843664,2000,Bryxham,Chief of Digital Marketing,78,Facebook,Contacting
+18528702,2004,Landon's  ,Data Scientist,78,Email,Qualified
+18955836,2004,Bryxham,Financial Analyst,78,Facebook,Closed
+18810704,2000,Regalchain,VP of Business,70,Instagram,Qualified
+18490984,2016,Regalchain,VP of Business,37,Twitter,Open
+18721215,2004,Brock Tech,Procurement Manager,60,Website,Closed
+18730899,2009,Polymeris,Financial Analyst,60,Twitter,Contacting
+18288682,2004,Marxel,Head of Human Resources,42,Website,Open
+18491851,2005,Polymeris,VP of Daily Operations,94,Website,Open
+18293106,2000,Gooyer,Data Scientist,56,LinkedIn,Qualified
+18560548,2009,Myxable Co.,CEO,96,Twitter,Contacting
+18134256,2009,Marxel,Chief of Digital Marketing,64,Website,Contacting
+18168609,2016,HeidieX,VP of Daily Operations,87,Instagram,Qualified
+18982982,2000,Lexinton Rig Inc,VP of Business,47,Webinar,Closed
+18180096,2005,Regalchain,Procurement Manager,94,LinkedIn,Qualified
+18385287,2005,Gooyer,Financial Analyst,76,Facebook,Open
+18384226,2016,Circuit City,Manager of Business Development,49,LinkedIn,Open
+18628650,2019,Landon's  ,Manager of Business Development,93,Twitter,Open
+18206052,2001,Landon's  ,VP of Daily Operations,50,Instagram,Contacting
+18568423,2019,HeidieX,VP of Business,49,Twitter,Closed
+18742171,2016,Polymeris,Head of Learning and Development,39,Webinar,Closed
+18718277,2004,HeidieX,Senior Director of B2B Marketing,87,Email,Qualified
+18567743,2016,HeidieX,Chief of Digital Marketing,92,Website,Open
+18379571,2000,Polymeris,Head of Learning and Development,91,Facebook,Contacting
+18997511,2009,Landon's  ,Chief of Digital Marketing,66,Facebook,Qualified
+18405776,2000,Regalchain,Manager of Business Development,55,Twitter,Contacting
+18155411,2019,Brock Tech,Manager of Business Development,39,Website,Qualified
+18945115,2000,Gooyer,Director of Marketing,48,Facebook,Contacting
+18566277,2000,Gooyer,Financial Analyst,57,LinkedIn,Open
+18582925,2019,Circuit City,VP of Daily Operations,55,Email,Qualified
+19005372,2001,Gooyer,VP of Daily Operations,54,LinkedIn,Qualified
+18192154,2009,Polymeris,CEO,55,Webinar,Qualified
+18163845,2000,Gooyer,Manager of Business Development,86,Facebook,Closed
+18689461,2005,Bryxham,VP of Business,89,Facebook,Qualified
+18833439,2013,Landon's  ,Business Analyst,55,Website,Open
+18962968,2004,Marxel,Data Scientist,61,Facebook,Contacting
+18388871,2019,Brock Tech,President,93,Webinar,Open
+18132557,2016,Regalchain,Manager of Business Development,82,Email,Open
+18786420,2004,Gooyer,Senior Director of B2B Marketing,56,Email,Open
+18792739,2009,Bryxham,Business Analyst,85,LinkedIn,Closed
+18925221,2016,HeidieX,Procurement Manager,64,Website,Qualified
+18427146,2001,Brock Tech,Chief of Digital Marketing,91,Instagram,Qualified
+18591057,2000,Regalchain,Chief of Digital Marketing,40,Facebook,Open
+18882320,2009,Brock Tech,Data Scientist,75,Twitter,Qualified
+18919846,2016,Circuit City,VP of Business,56,Email,Closed
+18301937,2005,Polymeris,Director of Marketing,81,Twitter,Contacting
+18451458,2019,Brock Tech,President,52,Twitter,Contacting
+18464400,2013,Circuit City,VP of Business,67,Email,Open
+18755098,2004,Polymeris,Contingent Worker,82,Facebook,Open
+18760089,2013,Marxel,Procurement Manager,51,Facebook,Qualified
+18907319,2016,Polymeris,Manager of Business Development,82,Twitter,Contacting
+18971243,2016,Regalchain,Director of Marketing,52,Website,Closed
+18944629,2005,Landon's  ,Head of Learning and Development,69,Facebook,Closed
+18309664,2004,WestLand's Incorporated,Head of Human Resources,63,Website,Contacting
+18632502,2000,Bryxham,Chief of Digital Marketing,50,Instagram,Closed
+18383214,2005,Lexinton Rig Inc,VP of Business,85,Facebook,Qualified
+18326768,2005,Marxel,Head of Human Resources,42,LinkedIn,Qualified
+18539422,2013,Bryxham,President,73,Email,Closed
+18437631,2009,Regalchain,Head of Human Resources,43,Webinar,Closed
+18313819,2000,Lexinton Rig Inc,Head of Learning and Development,43,Twitter,Qualified
+18603142,2001,Polymeris,Contingent Worker,40,Facebook,Closed
+18785743,2004,Circuit City,Head of Learning and Development,80,Email,Open
+18895376,2019,Landon's  ,Contingent Worker,88,Twitter,Open
+18520457,2009,WestLand's Incorporated,CEO,54,Webinar,Closed
+18383230,2016,Bryxham,Financial Analyst,76,Website,Qualified
+18997089,2009,Gooyer,Procurement Manager,74,Instagram,Contacting
+18677129,2019,Circuit City,VP of Daily Operations,41,Instagram,Contacting
+18966939,2016,Polymeris,Senior Director of B2B Marketing,97,Facebook,Qualified
+18885215,2019,Marxel,President,57,Twitter,Qualified
+18215954,2016,Regalchain,Business Analyst,77,Email,Qualified
+18216475,2005,Marxel,Financial Analyst,83,Instagram,Closed
+18699879,2016,Marxel,Data Scientist,96,Email,Open
+18464862,2019,Brock Tech,Business Analyst,97,Instagram,Contacting
+18620427,2013,Brock Tech,President,67,LinkedIn,Contacting
+18354073,2009,Gooyer,Financial Analyst,97,Email,Qualified
+18431183,2009,Brock Tech,Business Analyst,82,Facebook,Open
+18331555,2005,Circuit City,VP of Business,97,Email,Closed
+18430758,2009,Regalchain,Procurement Manager,89,LinkedIn,Closed
+18631570,2019,HeidieX,Contingent Worker,49,LinkedIn,Closed
+18309682,2019,WestLand's Incorporated,VP of Daily Operations,85,LinkedIn,Closed
+18856864,2001,Circuit City,Data Scientist,46,Twitter,Contacting
+18706942,2001,Circuit City,Contingent Worker,40,Webinar,Open
+18391771,2016,Regalchain,CEO,50,Webinar,Closed
+18934779,2005,Circuit City,Manager of Business Development,60,Instagram,Closed
+18607121,2019,WestLand's Incorporated,Director of Marketing,37,LinkedIn,Contacting
+18204110,2004,HeidieX,Head of Learning and Development,42,Twitter,Closed
+18990555,2013,Lexinton Rig Inc,VP of Daily Operations,84,Facebook,Contacting
+18346614,2016,Regalchain,Data Scientist,36,Twitter,Contacting
+18315300,2009,Gooyer,Manager of Business Development,47,Webinar,Closed
+18182869,2001,Marxel,Contingent Worker,92,Twitter,Closed
+18867238,2004,Bryxham,Senior Director of B2B Marketing,73,Twitter,Contacting
+18486152,2005,Landon's  ,VP of Daily Operations,43,LinkedIn,Qualified
+18275641,2001,Bryxham,President,89,Email,Open
+18449235,2013,Marxel,Data Scientist,77,Twitter,Qualified
+18167291,2000,Polymeris,President,56,Facebook,Qualified
+18216858,2013,Circuit City,Data Scientist,95,Website,Open
+18975499,2000,Lexinton Rig Inc,Senior Director of B2B Marketing,43,LinkedIn,Qualified
+18763577,2016,HeidieX,Data Scientist,86,Instagram,Closed
+18965429,2005,Landon's  ,President,66,Instagram,Qualified
+18670976,2019,Gooyer,Financial Analyst,44,Facebook,Open
+18536838,2019,Lexinton Rig Inc,Business Analyst,49,Email,Open
+18989314,2016,Gooyer,Business Analyst,82,Twitter,Open
+18970044,2019,Landon's  ,Manager of Business Development,36,Instagram,Qualified
+18142506,2016,Landon's  ,Contingent Worker,65,LinkedIn,Qualified
+18682978,2016,Landon's  ,VP of Business,48,Instagram,Qualified
+18195441,2004,HeidieX,VP of Daily Operations,70,LinkedIn,Qualified
+18367781,2016,Circuit City,Procurement Manager,93,Twitter,Contacting
+18693312,2013,HeidieX,Business Analyst,67,Webinar,Contacting
+18595293,2000,Brock Tech,VP of Daily Operations,50,Facebook,Contacting
+18213089,2009,Brock Tech,VP of Daily Operations,57,Instagram,Contacting
+18929712,2001,Circuit City,Director of Marketing,78,Instagram,Contacting
+18371226,2009,Regalchain,Director of Marketing,61,Email,Closed
+18857092,2004,WestLand's Incorporated,Chief of Digital Marketing,77,Webinar,Closed
+18666777,2005,Lexinton Rig Inc,Data Scientist,80,LinkedIn,Open
+18236476,2019,Circuit City,Contingent Worker,77,Webinar,Open
+18312361,2005,Lexinton Rig Inc,President,36,Website,Open
+18721001,2019,Brock Tech,Head of Learning and Development,91,LinkedIn,Open
+18903529,2001,Polymeris,Head of Human Resources,76,Facebook,Open
+18789597,2001,Lexinton Rig Inc,Manager of Business Development,53,Webinar,Open
+18756556,2016,Circuit City,Contingent Worker,95,Email,Open
+18424882,2016,Myxable Co.,Contingent Worker,95,Webinar,Open
+18689782,2019,WestLand's Incorporated,VP of Daily Operations,49,Website,Contacting
+18149364,2005,Regalchain,Data Scientist,77,Twitter,Qualified
+18243102,2000,WestLand's Incorporated,Data Scientist,49,LinkedIn,Closed
+18781925,2001,Regalchain,Senior Director of B2B Marketing,80,Website,Closed
+18918715,2000,Landon's  ,VP of Business,87,Website,Open
+18502522,2004,Landon's  ,VP of Business,64,LinkedIn,Qualified
+18236508,2009,Regalchain,Manager of Business Development,42,Email,Open
+18983215,2004,Marxel,Head of Human Resources,97,Instagram,Qualified
+18174809,2016,Gooyer,VP of Daily Operations,88,LinkedIn,Contacting
+18212235,2016,Circuit City,Head of Human Resources,56,Website,Open
+18400584,2013,WestLand's Incorporated,President,84,Webinar,Closed
+18816010,2001,Bryxham,Head of Human Resources,51,Facebook,Qualified
+18548534,2004,Landon's  ,Manager of Business Development,65,LinkedIn,Qualified
+18366494,2000,Landon's  ,Head of Learning and Development,64,Instagram,Contacting
+18164387,2016,Lexinton Rig Inc,Head of Learning and Development,64,Website,Qualified
+18986819,2001,Brock Tech,Chief of Digital Marketing,91,Facebook,Contacting
+18918590,2013,Regalchain,VP of Business,78,Website,Qualified
+18358024,2009,Bryxham,Manager of Business Development,50,Website,Contacting
+18988155,2013,Polymeris,Financial Analyst,87,LinkedIn,Open
+18589628,2005,Brock Tech,Business Analyst,50,Twitter,Contacting
+18702667,2001,Lexinton Rig Inc,Business Analyst,80,Twitter,Closed
+18307118,2005,Myxable Co.,Business Analyst,58,Email,Open
+18277375,2001,Brock Tech,Business Analyst,75,Email,Qualified
+18309743,2005,Gooyer,VP of Business,84,Instagram,Qualified
+18774318,2016,Polymeris,Procurement Manager,51,Facebook,Qualified
+18666180,2005,Gooyer,VP of Daily Operations,92,Website,Closed
+18767579,2016,Gooyer,Senior Director of B2B Marketing,53,LinkedIn,Contacting
+18145849,2005,Circuit City,Financial Analyst,93,Webinar,Open
+18521921,2019,Lexinton Rig Inc,Contingent Worker,50,Twitter,Contacting
+18702940,2001,Circuit City,Chief of Digital Marketing,92,Webinar,Qualified
+18449191,2009,Marxel,Procurement Manager,74,LinkedIn,Qualified
+18518380,2004,Marxel,Manager of Business Development,86,Email,Contacting
+18429578,2013,Brock Tech,Contingent Worker,60,Twitter,Qualified
+18394306,2009,Polymeris,President,66,Facebook,Contacting
+18880911,2009,Myxable Co.,Business Analyst,89,Facebook,Closed
+18598064,2001,Circuit City,Head of Human Resources,50,Twitter,Qualified
+18800129,2016,Bryxham,Data Scientist,55,Instagram,Open
+18321924,2000,Circuit City,Senior Director of B2B Marketing,83,Website,Open
+18449208,2016,Regalchain,Senior Director of B2B Marketing,48,LinkedIn,Contacting
+18914077,2009,Myxable Co.,Head of Human Resources,74,Email,Contacting
+18851624,2000,HeidieX,Data Scientist,81,Website,Contacting
+18875055,2009,Circuit City,Manager of Business Development,40,LinkedIn,Closed
+18438748,2005,Polymeris,Head of Learning and Development,82,Webinar,Qualified
+18459558,2004,Polymeris,Data Scientist,85,Facebook,Qualified
+18629021,2016,HeidieX,Head of Learning and Development,79,Instagram,Qualified
+18410848,2000,Gooyer,VP of Business,66,LinkedIn,Qualified
+18747776,2016,Marxel,Head of Learning and Development,52,Instagram,Qualified
+18754671,2001,Polymeris,Contingent Worker,88,Website,Qualified
+18793555,2004,Gooyer,Senior Director of B2B Marketing,53,Email,Open
+18464108,2004,WestLand's Incorporated,CEO,77,Email,Open
+18755899,2005,Bryxham,Financial Analyst,61,Instagram,Contacting
+18469550,2013,HeidieX,Contingent Worker,45,LinkedIn,Closed
+18304316,2013,Circuit City,VP of Business,81,Webinar,Qualified
+18807781,2004,Lexinton Rig Inc,VP of Business,94,Website,Qualified
+18991306,2000,Lexinton Rig Inc,VP of Daily Operations,91,LinkedIn,Closed
+18752532,2016,Myxable Co.,Head of Human Resources,56,LinkedIn,Qualified
+18352996,2013,Lexinton Rig Inc,Head of Human Resources,46,Email,Contacting
+18222463,2016,Lexinton Rig Inc,Business Analyst,53,Webinar,Closed
+18769485,2005,Bryxham,VP of Business,66,Facebook,Open
+18417538,2000,HeidieX,VP of Daily Operations,59,LinkedIn,Open
+18693527,2004,Lexinton Rig Inc,Data Scientist,85,Webinar,Qualified
+18506488,2001,Myxable Co.,President,55,Twitter,Open
+18487045,2005,Lexinton Rig Inc,Head of Learning and Development,58,LinkedIn,Qualified
+18573213,2009,HeidieX,Head of Human Resources,85,Webinar,Open
+18462839,2001,Brock Tech,Procurement Manager,48,Email,Open
+18790841,2009,Circuit City,Data Scientist,88,Webinar,Qualified
+18301606,2000,Brock Tech,Contingent Worker,64,LinkedIn,Closed
+18195729,2004,Polymeris,Financial Analyst,78,Instagram,Closed
+18514954,2005,HeidieX,Contingent Worker,88,Twitter,Closed
+18619167,2016,Brock Tech,CEO,41,Instagram,Contacting
+18443890,2016,WestLand's Incorporated,VP of Daily Operations,73,Facebook,Open
+18699843,2019,Myxable Co.,Director of Marketing,93,Instagram,Qualified
+18800030,2001,HeidieX,Business Analyst,40,Instagram,Closed
+18750457,2013,WestLand's Incorporated,Head of Human Resources,88,Instagram,Open
+18649026,2004,HeidieX,Contingent Worker,44,LinkedIn,Closed
+18774732,2005,Lexinton Rig Inc,Head of Learning and Development,49,Email,Open
+18990251,2013,WestLand's Incorporated,Data Scientist,76,LinkedIn,Contacting
+18382607,2004,Bryxham,Contingent Worker,55,Webinar,Contacting
+18321279,2001,Bryxham,VP of Daily Operations,90,Email,Open
+18710787,2001,Circuit City,Chief of Digital Marketing,93,LinkedIn,Closed
+18852150,2004,WestLand's Incorporated,Director of Marketing,50,LinkedIn,Qualified
+18448448,2000,Landon's  ,Contingent Worker,96,Instagram,Qualified
+18432698,2001,Brock Tech,Manager of Business Development,79,Facebook,Qualified
+18142012,2013,Brock Tech,Director of Marketing,90,Instagram,Closed
+18310329,2016,Brock Tech,Chief of Digital Marketing,53,Email,Contacting
+18788698,2009,Circuit City,President,85,LinkedIn,Qualified
+18602924,2004,Regalchain,Manager of Business Development,57,Email,Contacting
+18211262,2009,WestLand's Incorporated,Contingent Worker,54,Website,Qualified
+18458761,2005,Lexinton Rig Inc,President,50,Email,Open
+18420681,2000,Bryxham,Data Scientist,86,Webinar,Open
+18930523,2005,Circuit City,Manager of Business Development,78,Webinar,Qualified
+18687491,2009,Brock Tech,VP of Business,81,Webinar,Open
+18163681,2001,WestLand's Incorporated,Head of Learning and Development,90,Email,Open
+18851473,2004,Regalchain,VP of Daily Operations,73,Webinar,Qualified
+18198270,2019,Brock Tech,Head of Human Resources,77,Twitter,Qualified
+18956653,2005,Polymeris,Senior Director of B2B Marketing,42,Twitter,Contacting
+18697433,2009,Bryxham,Procurement Manager,83,Twitter,Closed
+18783598,2009,Landon's  ,Manager of Business Development,36,LinkedIn,Contacting
+18996137,2005,Landon's  ,Contingent Worker,89,Webinar,Open
+18438030,2019,Circuit City,Business Analyst,61,LinkedIn,Contacting
+18464444,2009,Myxable Co.,President,94,Facebook,Qualified
+18953853,2019,Brock Tech,President,80,Webinar,Open
+18421377,2000,Myxable Co.,Contingent Worker,92,Webinar,Contacting
+18693476,2004,Gooyer,Head of Human Resources,36,Instagram,Open
+18464899,2016,Brock Tech,Contingent Worker,65,Instagram,Contacting
+18855592,2019,Lexinton Rig Inc,Head of Human Resources,39,LinkedIn,Closed
+18334099,2004,WestLand's Incorporated,Data Scientist,72,LinkedIn,Contacting
+18360214,2013,Regalchain,Financial Analyst,49,Twitter,Qualified
+18951707,2013,Myxable Co.,Senior Director of B2B Marketing,51,Twitter,Closed
+18218250,2016,WestLand's Incorporated,Head of Learning and Development,94,Twitter,Open
+18311342,2000,Myxable Co.,Senior Director of B2B Marketing,38,Webinar,Qualified
+18823236,2001,Brock Tech,VP of Daily Operations,79,LinkedIn,Open
+18272714,2000,Brock Tech,Data Scientist,97,Webinar,Open
+18857982,2004,WestLand's Incorporated,President,67,Webinar,Contacting
+18318785,2013,Regalchain,Procurement Manager,84,Website,Closed
+18829891,2005,Polymeris,Contingent Worker,64,Instagram,Closed
+18676853,2016,Polymeris,Head of Learning and Development,75,Facebook,Closed
+18183312,2013,Bryxham,President,56,Facebook,Closed
+18769041,2013,Marxel,VP of Business,43,Facebook,Contacting
+18897114,2001,Circuit City,Chief of Digital Marketing,85,Website,Closed
+18372791,2001,Polymeris,Business Analyst,68,Twitter,Qualified
+18467495,2019,Brock Tech,Chief of Digital Marketing,82,Twitter,Qualified
+18269927,2001,Circuit City,Data Scientist,39,Twitter,Contacting
+18258334,2000,Polymeris,Procurement Manager,59,Facebook,Open
+18812949,2013,WestLand's Incorporated,VP of Daily Operations,79,Twitter,Contacting
+18322895,2019,Bryxham,VP of Business,56,Email,Closed
+18716084,2009,Regalchain,VP of Daily Operations,93,Instagram,Contacting
+18154562,2000,Bryxham,VP of Daily Operations,39,Website,Contacting
+18201791,2009,Gooyer,Head of Learning and Development,45,Facebook,Qualified
+18861740,2016,WestLand's Incorporated,Senior Director of B2B Marketing,64,LinkedIn,Contacting
+18762460,2004,Circuit City,VP of Business,75,Webinar,Open
+18978771,2009,Myxable Co.,Procurement Manager,66,Facebook,Qualified
+18796021,2001,WestLand's Incorporated,Head of Learning and Development,48,Email,Open
+18935567,2004,Lexinton Rig Inc,VP of Daily Operations,53,Email,Contacting
+18274156,2009,Marxel,Head of Human Resources,45,LinkedIn,Open
+19007646,2009,Gooyer,VP of Business,95,Twitter,Closed
+18668852,2000,Polymeris,Contingent Worker,37,LinkedIn,Closed
+18315281,2009,Bryxham,President,68,LinkedIn,Closed
+18398290,2013,Landon's  ,Data Scientist,49,Instagram,Qualified
+18616914,2019,Landon's  ,CEO,37,LinkedIn,Closed
+19005453,2013,Gooyer,Procurement Manager,66,Website,Contacting
+18509594,2004,Gooyer,Head of Human Resources,67,Twitter,Qualified
+18215846,2016,Lexinton Rig Inc,VP of Daily Operations,88,Twitter,Open
+18529249,2009,Bryxham,CEO,69,LinkedIn,Qualified
+18379715,2005,HeidieX,President,56,Twitter,Contacting
+18958186,2001,Circuit City,VP of Daily Operations,50,Facebook,Closed
+18178334,2016,Marxel,VP of Daily Operations,88,Twitter,Contacting
+18413777,2019,Circuit City,Head of Learning and Development,98,Email,Qualified
+18373229,2005,Gooyer,President,67,LinkedIn,Qualified
+18943270,2016,HeidieX,Director of Marketing,43,LinkedIn,Closed
+18494599,2001,Regalchain,Manager of Business Development,44,Twitter,Contacting
+18814426,2000,Polymeris,Director of Marketing,91,Webinar,Qualified
+18956212,2004,Gooyer,Head of Human Resources,66,Webinar,Contacting
+18355429,2009,Regalchain,Business Analyst,82,Email,Contacting
+18831123,2016,WestLand's Incorporated,CEO,72,Instagram,Qualified
+18339626,2004,Regalchain,Manager of Business Development,40,Webinar,Qualified
+18130482,2005,WestLand's Incorporated,VP of Daily Operations,46,Instagram,Qualified
+18270728,2013,Landon's  ,VP of Business,77,Webinar,Open
+18476421,2016,HeidieX,CEO,55,Instagram,Closed
+18210771,2004,Gooyer,Data Scientist,88,Webinar,Open
+18771573,2004,HeidieX,Senior Director of B2B Marketing,65,Twitter,Contacting
+18406069,2005,Bryxham,Head of Human Resources,83,Instagram,Open
+18138806,2013,Bryxham,Procurement Manager,98,LinkedIn,Qualified
+18287158,2005,Circuit City,Chief of Digital Marketing,96,Instagram,Open
+18255791,2001,HeidieX,President,46,Email,Qualified
+18939791,2001,Myxable Co.,Director of Marketing,93,Instagram,Qualified
+18378786,2001,Brock Tech,CEO,97,Website,Open
+18183371,2001,WestLand's Incorporated,Chief of Digital Marketing,75,Website,Open
+18886183,2000,Regalchain,Senior Director of B2B Marketing,97,Email,Qualified
+18212116,2000,WestLand's Incorporated,Financial Analyst,74,Instagram,Open
+18438676,2001,Polymeris,Senior Director of B2B Marketing,77,Webinar,Qualified
+18762403,2009,Lexinton Rig Inc,Head of Learning and Development,40,LinkedIn,Qualified
+18544290,2000,Regalchain,Data Scientist,53,Website,Qualified
+18314729,2000,HeidieX,Director of Marketing,67,Website,Qualified
+18538479,2004,Myxable Co.,President,88,Email,Contacting
+18270350,2005,Polymeris,Head of Human Resources,54,Webinar,Closed
+19009458,2013,Myxable Co.,Contingent Worker,76,Email,Open
+18854645,2005,Bryxham,VP of Business,63,Twitter,Closed
+18240109,2016,Brock Tech,Data Scientist,76,Webinar,Qualified
+18936473,2000,Lexinton Rig Inc,Director of Marketing,43,Twitter,Closed
+18647339,2019,WestLand's Incorporated,CEO,98,Facebook,Open
+18836834,2019,Landon's  ,Director of Marketing,90,Facebook,Qualified
+18803077,2019,Polymeris,CEO,79,Facebook,Qualified
+18755430,2005,Regalchain,President,59,Email,Qualified
+18944931,2009,Gooyer,Manager of Business Development,57,Twitter,Closed
+18558057,2009,Marxel,Business Analyst,46,LinkedIn,Closed
+18721537,2005,Brock Tech,Head of Human Resources,64,LinkedIn,Qualified
+18913475,2019,Landon's  ,Manager of Business Development,52,LinkedIn,Closed
+18940141,2000,Regalchain,Contingent Worker,57,Facebook,Contacting
+18820132,2019,Circuit City,Procurement Manager,98,Website,Closed
+18262971,2016,WestLand's Incorporated,Director of Marketing,72,Twitter,Open
+18954649,2009,Polymeris,Data Scientist,46,Twitter,Open
+18902752,2005,WestLand's Incorporated,Business Analyst,59,Facebook,Qualified
+18334722,2005,Myxable Co.,CEO,87,Instagram,Open
+19107646,2013,Lexinton Rig Inc,CEO,42,Facebook,Qualified
+18688866,2005,Myxable Co.,Manager of Business Development,94,Email,Qualified
+18661255,2016,Polymeris,Head of Human Resources,47,Facebook,Qualified
+18491654,2009,Landon's  ,Senior Director of B2B Marketing,42,Twitter,Closed
+18986896,2001,Bryxham,Senior Director of B2B Marketing,43,Instagram,Qualified
+18966555,2009,HeidieX,Head of Learning and Development,38,Facebook,Closed
+18845885,2016,Circuit City,Contingent Worker,97,Website,Qualified
+18261632,2009,Lexinton Rig Inc,Manager of Business Development,87,Twitter,Closed
+18410998,2000,Myxable Co.,Financial Analyst,96,Twitter,Qualified
+18386830,2005,Gooyer,Manager of Business Development,89,Instagram,Closed
+18132670,2013,Brock Tech,CEO,63,Instagram,Contacting
+18868344,2001,Brock Tech,Head of Learning and Development,74,Email,Closed
+18443379,2001,WestLand's Incorporated,CEO,96,LinkedIn,Qualified
+18961020,2005,Myxable Co.,Head of Learning and Development,50,LinkedIn,Contacting
+18418684,2019,HeidieX,Business Analyst,75,Facebook,Contacting
+18491973,2000,HeidieX,Director of Marketing,61,Email,Open
+18756279,2016,Gooyer,Financial Analyst,91,Website,Open
+18515052,2013,Gooyer,Financial Analyst,80,Website,Open
+18755497,2016,Gooyer,Business Analyst,59,Website,Contacting
+18936731,2009,Polymeris,Business Analyst,47,LinkedIn,Contacting
+18226657,2019,Lexinton Rig Inc,Head of Learning and Development,47,LinkedIn,Contacting
+18164606,2005,HeidieX,VP of Daily Operations,83,LinkedIn,Open
+18793057,2013,Polymeris,Contingent Worker,84,Website,Closed
+18917264,2013,Regalchain,President,51,Website,Contacting
+18876938,2013,Marxel,Chief of Digital Marketing,43,LinkedIn,Open
+18535857,2019,Gooyer,VP of Business,74,Instagram,Open
+18709873,2000,Gooyer,Manager of Business Development,65,LinkedIn,Closed
+18220312,2000,WestLand's Incorporated,Procurement Manager,91,Email,Closed
+18351840,2001,Brock Tech,Data Scientist,51,Facebook,Closed
+18259490,2001,Landon's  ,CEO,75,Twitter,Open
+18548541,2009,WestLand's Incorporated,Director of Marketing,84,Facebook,Open
+18826509,2000,Circuit City,CEO,93,Website,Qualified
+18776406,2019,Gooyer,Senior Director of B2B Marketing,50,LinkedIn,Qualified
+18279384,2009,Polymeris,Head of Human Resources,59,Email,Open
+18308855,2004,Polymeris,Head of Human Resources,52,Website,Contacting
+18508194,2001,HeidieX,VP of Business,63,Instagram,Contacting
+18796250,2005,Landon's  ,VP of Daily Operations,42,Facebook,Qualified
+18769399,2000,HeidieX,Senior Director of B2B Marketing,64,Twitter,Contacting
+18729420,2019,HeidieX,President,51,Instagram,Closed
+18661193,2005,Regalchain,Manager of Business Development,98,Webinar,Open
+18841470,2000,Bryxham,VP of Business,91,Twitter,Qualified
+18744742,2005,Polymeris,President,53,LinkedIn,Open
+18973813,2000,Lexinton Rig Inc,VP of Business,55,Email,Closed
+18186530,2013,Brock Tech,President,57,LinkedIn,Open
+18476919,2005,Circuit City,Data Scientist,51,LinkedIn,Qualified
+18518288,2000,Brock Tech,Data Scientist,39,Website,Closed
+18658045,2019,Lexinton Rig Inc,Business Analyst,85,Webinar,Contacting
+18480017,2004,Circuit City,Senior Director of B2B Marketing,97,Twitter,Closed
+18239008,2019,Myxable Co.,CEO,63,Instagram,Open
+18898994,2004,Myxable Co.,Head of Learning and Development,69,Website,Qualified
+18516229,2001,Bryxham,Head of Human Resources,50,Twitter,Closed
+18238591,2000,Polymeris,President,49,Instagram,Open
+18626579,2005,Lexinton Rig Inc,CEO,56,Twitter,Closed
+18530899,2013,HeidieX,Chief of Digital Marketing,67,Webinar,Closed
+18550811,2013,Circuit City,Chief of Digital Marketing,40,Email,Contacting
+18377193,2005,Bryxham,Manager of Business Development,64,Facebook,Closed
+18528262,2000,Circuit City,Business Analyst,56,LinkedIn,Contacting
+18813580,2004,Bryxham,President,54,Email,Closed
+18189007,2004,Circuit City,VP of Business,61,Facebook,Qualified
+18156594,2000,Regalchain,Head of Human Resources,44,Facebook,Qualified
+18878030,2013,WestLand's Incorporated,VP of Daily Operations,67,Email,Closed
+18741819,2005,Myxable Co.,Financial Analyst,96,LinkedIn,Qualified
+18235061,2004,Regalchain,Manager of Business Development,66,Webinar,Open
+18779588,2004,Myxable Co.,CEO,86,LinkedIn,Contacting
+18876570,2009,Gooyer,Financial Analyst,36,LinkedIn,Qualified
+18975284,2009,Marxel,Senior Director of B2B Marketing,61,Website,Open
+18972909,2001,Marxel,Director of Marketing,64,Facebook,Contacting
+18740967,2009,Polymeris,VP of Business,42,Facebook,Contacting
+18328502,2001,Brock Tech,CEO,53,Webinar,Contacting
+18902595,2004,HeidieX,Data Scientist,38,Instagram,Contacting
+18147353,2004,Gooyer,Manager of Business Development,36,Website,Contacting
+18265209,2019,WestLand's Incorporated,Data Scientist,97,Website,Closed
+18235172,2016,Lexinton Rig Inc,Head of Human Resources,97,Facebook,Closed
+18608252,2019,Landon's  ,CEO,68,Website,Contacting
+18466222,2005,Brock Tech,Chief of Digital Marketing,78,Webinar,Open
+18233587,2013,Brock Tech,Contingent Worker,42,Email,Contacting
+18306662,2009,Lexinton Rig Inc,VP of Business,56,Instagram,Open
+18832849,2001,Regalchain,Director of Marketing,56,Webinar,Contacting
+18924056,2001,Brock Tech,CEO,46,Twitter,Contacting
+18270296,2009,Marxel,Business Analyst,70,Twitter,Qualified
+18992136,2000,Myxable Co.,Procurement Manager,61,Website,Qualified
+18752860,2009,Myxable Co.,Contingent Worker,90,Instagram,Closed
+18171102,2016,Lexinton Rig Inc,VP of Daily Operations,84,Twitter,Qualified
+18737039,2000,Myxable Co.,President,97,Instagram,Qualified
+18251313,2013,Regalchain,VP of Business,56,Email,Contacting
+18360842,2000,Circuit City,Contingent Worker,61,Website,Contacting
+18589796,2013,Gooyer,VP of Daily Operations,79,Instagram,Qualified
+18822932,2004,Polymeris,Data Scientist,57,LinkedIn,Open
+18782227,2019,WestLand's Incorporated,CEO,55,Twitter,Closed
+18798506,2016,Marxel,Director of Marketing,94,Website,Contacting
+18276335,2016,Circuit City,Senior Director of B2B Marketing,49,LinkedIn,Contacting
+18768223,2004,Circuit City,VP of Business,52,Instagram,Closed
+18965235,2013,Landon's  ,VP of Business,36,Webinar,Qualified
+18644588,2016,Lexinton Rig Inc,VP of Business,83,Webinar,Contacting
+18279366,2009,Circuit City,Business Analyst,56,LinkedIn,Contacting
+18517400,2005,Polymeris,Senior Director of B2B Marketing,84,Twitter,Open
+18448603,2016,Landon's  ,Head of Learning and Development,82,Website,Closed
+18871323,2004,Regalchain,VP of Business,36,LinkedIn,Qualified
+18816923,2013,Gooyer,Chief of Digital Marketing,36,Facebook,Qualified
+18883765,2019,Marxel,Procurement Manager,98,Facebook,Closed
+18355904,2001,Bryxham,Financial Analyst,95,Email,Contacting
+18614618,2004,Polymeris,VP of Business,42,Instagram,Closed
+18929518,2016,Polymeris,Business Analyst,42,Website,Contacting
+18525276,2000,Brock Tech,Manager of Business Development,53,Website,Contacting
+18746220,2016,Gooyer,Business Analyst,39,Facebook,Open
+18886896,2004,Lexinton Rig Inc,VP of Business,60,LinkedIn,Qualified
+18563174,2019,Circuit City,VP of Business,79,LinkedIn,Open
+18140729,2005,HeidieX,Data Scientist,68,Facebook,Contacting
+18830532,2001,HeidieX,Manager of Business Development,76,Twitter,Closed
+18671879,2013,Marxel,Manager of Business Development,74,Webinar,Qualified
+18996862,2013,Bryxham,Data Scientist,63,Instagram,Qualified
+18417123,2013,Circuit City,Financial Analyst,63,Webinar,Open
+18382830,2001,Marxel,CEO,98,Email,Contacting
+18150115,2001,Myxable Co.,VP of Daily Operations,50,Webinar,Closed
+18359992,2016,Myxable Co.,Business Analyst,94,Facebook,Qualified
+18140736,2013,Myxable Co.,Business Analyst,38,Facebook,Open
+18215779,2001,WestLand's Incorporated,Director of Marketing,85,Facebook,Open
+18490790,2005,Brock Tech,Senior Director of B2B Marketing,36,Facebook,Closed
+18635562,2016,Polymeris,Data Scientist,36,Facebook,Contacting
+18358694,2019,Circuit City,Financial Analyst,90,Instagram,Open
+18734836,2013,HeidieX,Senior Director of B2B Marketing,61,Twitter,Open
+18497641,2013,Landon's  ,Director of Marketing,82,Facebook,Contacting
+18552589,2004,HeidieX,Head of Learning and Development,44,LinkedIn,Contacting
+18702463,2013,Gooyer,CEO,72,Website,Qualified
+18361451,2004,Landon's  ,Head of Learning and Development,78,Website,Closed
+18453738,2019,Brock Tech,Financial Analyst,50,Webinar,Open
+18893363,2000,WestLand's Incorporated,Chief of Digital Marketing,56,Webinar,Open
+18149365,2019,Regalchain,VP of Daily Operations,55,Instagram,Contacting
+18465180,2000,WestLand's Incorporated,President,92,Email,Contacting
+18473760,2019,Myxable Co.,Financial Analyst,72,LinkedIn,Contacting
+18688321,2000,HeidieX,Head of Learning and Development,61,Facebook,Closed
+19008873,2005,Lexinton Rig Inc,Chief of Digital Marketing,46,Instagram,Qualified
+18220608,2019,Myxable Co.,Contingent Worker,85,Webinar,Qualified
+18528992,2009,Marxel,Procurement Manager,72,Webinar,Closed
+18339262,2000,Lexinton Rig Inc,VP of Business,42,Website,Closed
+18527199,2000,Landon's  ,Data Scientist,53,Instagram,Open
+18420079,2000,Myxable Co.,Senior Director of B2B Marketing,98,Facebook,Qualified
+18267668,2016,Landon's  ,Senior Director of B2B Marketing,58,Facebook,Qualified
+18684070,2019,Bryxham,Business Analyst,46,Webinar,Open
+18979906,2005,Bryxham,Manager of Business Development,49,LinkedIn,Qualified
+18131743,2001,Lexinton Rig Inc,Business Analyst,97,LinkedIn,Open
+18991103,2016,Bryxham,CEO,80,Email,Closed
+18281757,2009,Lexinton Rig Inc,Contingent Worker,68,Website,Qualified
+18848898,2013,Gooyer,CEO,47,Email,Open
+18667613,2005,Gooyer,Director of Marketing,96,LinkedIn,Qualified
+18378192,2005,Regalchain,Procurement Manager,53,Instagram,Contacting
+18958081,2019,WestLand's Incorporated,Data Scientist,85,Facebook,Contacting
+18376591,2016,Lexinton Rig Inc,Data Scientist,41,Website,Qualified
+18494347,2005,Gooyer,VP of Daily Operations,57,Email,Closed
+18281264,2001,Myxable Co.,Contingent Worker,75,LinkedIn,Open
+18136998,2005,HeidieX,Procurement Manager,61,Twitter,Closed
+18930902,2004,Regalchain,Procurement Manager,73,Twitter,Contacting
+18566712,2001,Myxable Co.,Senior Director of B2B Marketing,65,Email,Contacting
+18828039,2004,Brock Tech,VP of Daily Operations,58,LinkedIn,Contacting
+18912467,2004,Myxable Co.,Procurement Manager,61,Facebook,Open
+18713530,2019,WestLand's Incorporated,Data Scientist,47,LinkedIn,Open
+18500318,2005,Myxable Co.,Head of Learning and Development,51,Facebook,Contacting
+18733933,2001,Circuit City,VP of Daily Operations,94,Website,Contacting
+18386994,2004,Bryxham,Head of Learning and Development,43,Facebook,Open
+18965862,2005,WestLand's Incorporated,Manager of Business Development,54,Website,Open
+18522484,2009,Regalchain,Director of Marketing,61,Twitter,Contacting
+18918159,2016,WestLand's Incorporated,Senior Director of B2B Marketing,50,Email,Closed
+18644810,2019,Gooyer,Manager of Business Development,63,Email,Closed
+18310508,2000,HeidieX,Director of Marketing,79,Facebook,Qualified
+18486299,2001,Bryxham,VP of Daily Operations,67,Instagram,Closed
+18795152,2001,Myxable Co.,President,72,Email,Open
+18724081,2019,Bryxham,Head of Learning and Development,76,Twitter,Closed
+18617556,2016,Bryxham,Chief of Digital Marketing,57,LinkedIn,Qualified
+18699166,2019,Polymeris,Manager of Business Development,77,LinkedIn,Contacting
+18599622,2000,Regalchain,Director of Marketing,78,Webinar,Qualified
+18665523,2000,Myxable Co.,Chief of Digital Marketing,62,LinkedIn,Open
+18354826,2009,Brock Tech,Head of Learning and Development,58,Instagram,Open
+18718921,2005,Marxel,Head of Learning and Development,92,Instagram,Contacting
+18623162,2001,Gooyer,Manager of Business Development,80,Facebook,Qualified
+18666479,2005,Brock Tech,CEO,74,Twitter,Open
+18610774,2009,Gooyer,VP of Business,37,Webinar,Contacting
+18229897,2019,WestLand's Incorporated,Manager of Business Development,93,Twitter,Open
+18825759,2005,Circuit City,Head of Human Resources,92,Facebook,Contacting
+18872456,2005,Lexinton Rig Inc,President,71,Email,Open
+18777420,2019,Lexinton Rig Inc,Data Scientist,74,Facebook,Closed
+18856007,2004,Bryxham,Director of Marketing,75,Facebook,Contacting
+18645464,2016,Regalchain,Manager of Business Development,91,Twitter,Qualified
+18221566,2019,Polymeris,Data Scientist,73,Webinar,Qualified
+18474051,2001,HeidieX,Manager of Business Development,70,Website,Contacting
+18751238,2019,Myxable Co.,Director of Marketing,75,Facebook,Open
+18938220,2000,Myxable Co.,Senior Director of B2B Marketing,53,Facebook,Open
+18781887,2016,Gooyer,VP of Business,77,Website,Qualified
+18371041,2005,Bryxham,Senior Director of B2B Marketing,45,Email,Closed
+18276776,2016,Landon's  ,Director of Marketing,84,Twitter,Open
+18893664,2000,Lexinton Rig Inc,CEO,79,Email,Contacting
+18710021,2000,WestLand's Incorporated,Procurement Manager,76,Website,Contacting
+18335967,2000,Lexinton Rig Inc,Chief of Digital Marketing,54,Webinar,Contacting
+18669263,2000,WestLand's Incorporated,Chief of Digital Marketing,80,Facebook,Contacting
+18491956,2001,Myxable Co.,Contingent Worker,88,Webinar,Closed
+18848641,2001,HeidieX,Head of Human Resources,69,Email,Closed
+18842224,2016,Bryxham,VP of Daily Operations,95,Email,Qualified
+18976616,2019,WestLand's Incorporated,CEO,75,Website,Open
+18219489,2000,Marxel,Financial Analyst,69,Webinar,Closed
+18672824,2000,Landon's  ,Data Scientist,59,Facebook,Qualified
+18629067,2005,Myxable Co.,Data Scientist,44,Instagram,Qualified
+18578093,2016,Lexinton Rig Inc,Financial Analyst,82,Webinar,Contacting
+18239642,2000,WestLand's Incorporated,President,86,Twitter,Open
+18380814,2016,WestLand's Incorporated,Financial Analyst,83,Email,Closed
+18230147,2019,Myxable Co.,Business Analyst,89,Facebook,Qualified
+18166345,2001,Lexinton Rig Inc,Contingent Worker,57,Webinar,Closed
+18262537,2001,WestLand's Incorporated,Manager of Business Development,95,Twitter,Contacting
+18346106,2000,WestLand's Incorporated,Business Analyst,58,Facebook,Open
+18168173,2001,Polymeris,Head of Learning and Development,40,Facebook,Open
+18355468,2005,Gooyer,Financial Analyst,94,Email,Open
+19004087,2005,Landon's  ,Contingent Worker,62,Website,Closed
+18779762,2000,Gooyer,Financial Analyst,91,Webinar,Contacting
+18686635,2019,Bryxham,Senior Director of B2B Marketing,46,Webinar,Qualified
+18490756,2016,Brock Tech,Head of Learning and Development,37,LinkedIn,Qualified
+18617062,2000,WestLand's Incorporated,Contingent Worker,84,Website,Closed
+18531471,2005,Gooyer,Data Scientist,79,Facebook,Open
+18271594,2004,Brock Tech,Head of Learning and Development,71,Twitter,Contacting
+18905117,2019,Landon's  ,Procurement Manager,89,Instagram,Qualified
+18131757,2019,HeidieX,Senior Director of B2B Marketing,57,Webinar,Open
+18578428,2009,Lexinton Rig Inc,Chief of Digital Marketing,93,LinkedIn,Closed
+18767812,2009,HeidieX,Director of Marketing,54,Facebook,Open
+18657546,2009,Lexinton Rig Inc,Manager of Business Development,53,Facebook,Open
+18396896,2004,Myxable Co.,CEO,77,Website,Open
+18933643,2000,Lexinton Rig Inc,Data Scientist,62,Email,Open
+18929964,2005,Brock Tech,Data Scientist,39,LinkedIn,Open
+18997326,2013,Brock Tech,CEO,73,Instagram,Contacting
+18250885,2016,WestLand's Incorporated,Data Scientist,91,Instagram,Open
+18794969,2005,Bryxham,Procurement Manager,39,Email,Contacting
+18346118,2000,Marxel,Head of Human Resources,58,Email,Contacting
+18550070,2005,Circuit City,Manager of Business Development,46,Email,Qualified
+18918138,2009,WestLand's Incorporated,Director of Marketing,58,Facebook,Closed
+18295600,2004,Brock Tech,VP of Business,39,LinkedIn,Closed
+18661649,2001,Landon's  ,Senior Director of B2B Marketing,72,Instagram,Open
+18580249,2009,Gooyer,Financial Analyst,43,Instagram,Open
+18832013,2005,WestLand's Incorporated,Head of Learning and Development,62,Instagram,Open
+18949374,2005,Myxable Co.,President,43,LinkedIn,Contacting
+18356148,2004,WestLand's Incorporated,Chief of Digital Marketing,50,LinkedIn,Contacting
+18554447,2000,Lexinton Rig Inc,Head of Learning and Development,61,Twitter,Closed
+18682790,2019,Marxel,Head of Human Resources,67,Facebook,Qualified
+18428564,2009,Circuit City,Financial Analyst,46,Website,Qualified
+18374774,2000,Gooyer,CEO,57,Facebook,Closed
+18856695,2005,WestLand's Incorporated,Financial Analyst,45,Email,Closed
+18792488,2000,Landon's  ,CEO,38,Email,Contacting
+18757867,2000,Bryxham,VP of Business,68,Twitter,Closed
+18230418,2001,Marxel,VP of Daily Operations,37,Instagram,Open
+18468790,2000,Regalchain,VP of Daily Operations,61,Webinar,Contacting
+18168696,2019,Polymeris,Head of Learning and Development,78,Webinar,Closed
+18775357,2016,Bryxham,Business Analyst,51,Website,Qualified
+18482624,2019,Marxel,Head of Human Resources,88,Email,Qualified
+18428067,2009,Polymeris,Data Scientist,48,Instagram,Contacting
+18311987,2019,Regalchain,VP of Business,44,Email,Closed
+18517355,2005,HeidieX,Procurement Manager,74,Email,Contacting
+18324628,2004,Lexinton Rig Inc,Head of Learning and Development,94,Webinar,Closed
+18327637,2009,Circuit City,Data Scientist,41,Twitter,Closed
+18489310,2009,Polymeris,Contingent Worker,98,Webinar,Open
+19006455,2019,Landon's  ,Manager of Business Development,94,Email,Qualified
+18981414,2019,Marxel,Director of Marketing,48,Email,Qualified
+18876432,2004,Landon's  ,Director of Marketing,72,Facebook,Contacting
+18669276,2019,HeidieX,Head of Learning and Development,76,Twitter,Qualified
+18382194,2019,WestLand's Incorporated,Manager of Business Development,96,Facebook,Qualified
+18328711,2004,Regalchain,Senior Director of B2B Marketing,87,Email,Open
+18800517,2019,Bryxham,CEO,67,Instagram,Closed
+18842013,2013,Polymeris,Chief of Digital Marketing,61,Instagram,Contacting
+18688847,2019,Circuit City,VP of Daily Operations,75,Website,Qualified
+18743781,2009,Landon's  ,CEO,43,Email,Contacting
+18819839,2016,Circuit City,Head of Human Resources,44,Instagram,Qualified
+18624486,2009,Circuit City,VP of Daily Operations,61,LinkedIn,Qualified
+18268453,2005,Circuit City,Data Scientist,77,Facebook,Closed
+18830394,2005,Circuit City,Chief of Digital Marketing,45,Website,Contacting
+18289445,2013,Brock Tech,Manager of Business Development,59,Email,Contacting
+18358409,2009,Polymeris,Head of Learning and Development,49,LinkedIn,Contacting
+18937056,2013,Landon's  ,Director of Marketing,46,LinkedIn,Contacting
+19009592,2000,Brock Tech,Director of Marketing,71,Website,Closed
+18277188,2009,Myxable Co.,Procurement Manager,89,LinkedIn,Qualified
+18569428,2019,Regalchain,Procurement Manager,70,Webinar,Closed
+18272322,2019,Marxel,Senior Director of B2B Marketing,41,Twitter,Qualified
+18148045,2001,HeidieX,Chief of Digital Marketing,57,Facebook,Closed
+18954030,2004,WestLand's Incorporated,Senior Director of B2B Marketing,60,Email,Qualified
+18997537,2004,Polymeris,Head of Human Resources,41,Instagram,Qualified
+18422686,2016,Marxel,Contingent Worker,57,LinkedIn,Closed
+18952246,2013,Myxable Co.,Data Scientist,86,LinkedIn,Closed
+18664296,2005,Landon's  ,Financial Analyst,63,Email,Open
+18380106,2019,Polymeris,Head of Human Resources,59,Facebook,Open
+18365718,2016,Regalchain,Business Analyst,94,LinkedIn,Qualified
+18813657,2019,Landon's  ,Business Analyst,81,Website,Closed
+18939640,2019,WestLand's Incorporated,VP of Daily Operations,55,Instagram,Open
+18356900,2016,Circuit City,Financial Analyst,65,Email,Contacting
+18822680,2016,Marxel,CEO,58,LinkedIn,Qualified
+18670646,2016,Landon's  ,Manager of Business Development,36,Website,Contacting
+18553431,2009,Lexinton Rig Inc,VP of Business,54,Webinar,Contacting
+18831162,2000,Circuit City,VP of Business,58,Email,Open
+18496165,2001,Polymeris,Head of Learning and Development,63,Email,Contacting
+18236431,2004,Marxel,Head of Learning and Development,82,LinkedIn,Contacting
+18783649,2013,WestLand's Incorporated,Head of Human Resources,80,Email,Qualified
+18752580,2016,Landon's  ,VP of Daily Operations,51,LinkedIn,Closed
+18842290,2000,Marxel,Financial Analyst,84,Facebook,Qualified
+18627904,2001,Gooyer,Head of Learning and Development,98,Webinar,Contacting
+18887724,2016,Bryxham,Senior Director of B2B Marketing,77,Webinar,Qualified
+18744105,2001,Landon's  ,VP of Business,94,Twitter,Open
+18441749,2019,Polymeris,Director of Marketing,50,Website,Open
+18691436,2009,Lexinton Rig Inc,Senior Director of B2B Marketing,89,LinkedIn,Closed
+18275495,2000,Marxel,President,97,Email,Qualified
+18706582,2001,WestLand's Incorporated,Data Scientist,46,Twitter,Qualified
+18891007,2000,Polymeris,VP of Business,51,Instagram,Qualified
+18970498,2016,Landon's  ,VP of Daily Operations,47,Email,Contacting
+18777516,2009,Landon's  ,Financial Analyst,43,Email,Open
+18670565,2005,Brock Tech,VP of Daily Operations,87,Website,Qualified
+18132901,2019,Regalchain,Data Scientist,94,LinkedIn,Qualified
+18603802,2005,Gooyer,VP of Daily Operations,82,Facebook,Closed
+18236378,2004,Brock Tech,VP of Business,81,Twitter,Contacting
+18559193,2019,Circuit City,Data Scientist,79,Webinar,Closed
+18270099,2013,Gooyer,Contingent Worker,81,Webinar,Contacting
+18517334,2019,Bryxham,Senior Director of B2B Marketing,86,Email,Closed
+18692247,2013,Lexinton Rig Inc,Financial Analyst,96,Instagram,Contacting
+18872161,2013,Marxel,VP of Daily Operations,61,Email,Open
+18280109,2016,Bryxham,Data Scientist,47,Email,Qualified
+18677697,2009,HeidieX,Senior Director of B2B Marketing,45,Email,Qualified
+18497882,2013,Regalchain,CEO,83,LinkedIn,Open
+18836115,2009,Circuit City,Manager of Business Development,56,Twitter,Closed
+18485277,2019,Lexinton Rig Inc,Contingent Worker,97,Twitter,Qualified
+18914993,2000,HeidieX,Data Scientist,51,LinkedIn,Closed
+18883584,2016,Brock Tech,Financial Analyst,86,Website,Contacting
+18730522,2019,Landon's  ,Data Scientist,85,Instagram,Contacting
+18811277,2009,Lexinton Rig Inc,President,48,Webinar,Open
+18443919,2009,Myxable Co.,Procurement Manager,90,Facebook,Contacting
+18935243,2016,Regalchain,Director of Marketing,80,Webinar,Qualified
+18970588,2009,Marxel,VP of Daily Operations,94,Facebook,Open
+18745704,2019,Brock Tech,Head of Learning and Development,41,Facebook,Open
+18267302,2005,HeidieX,Business Analyst,67,LinkedIn,Open
+18591003,2004,Myxable Co.,VP of Business,52,LinkedIn,Qualified
+18360253,2005,Marxel,Head of Human Resources,98,Facebook,Qualified
+18523150,2000,Circuit City,VP of Daily Operations,39,Webinar,Open
+18778579,2000,Myxable Co.,President,90,Webinar,Contacting
+18435530,2004,WestLand's Incorporated,Procurement Manager,97,Website,Closed
+18213483,2004,Circuit City,Data Scientist,49,Twitter,Closed
+18733636,2001,Gooyer,Data Scientist,87,Twitter,Qualified
+18229932,2013,Brock Tech,Head of Human Resources,96,Facebook,Open
+18985426,2000,Gooyer,Senior Director of B2B Marketing,77,Email,Open
+18144536,2004,Bryxham,VP of Daily Operations,68,Twitter,Closed
+18662022,2019,WestLand's Incorporated,Business Analyst,88,Twitter,Contacting
+18748612,2013,WestLand's Incorporated,Chief of Digital Marketing,66,Twitter,Closed
+18674688,2009,Landon's  ,Head of Human Resources,67,LinkedIn,Qualified
+18163700,2019,WestLand's Incorporated,Senior Director of B2B Marketing,87,Twitter,Contacting
+18945440,2009,Brock Tech,Data Scientist,51,Email,Contacting
+18321121,2016,Polymeris,Procurement Manager,78,Instagram,Closed
+18995982,2001,Bryxham,Senior Director of B2B Marketing,89,Instagram,Closed
+18663407,2005,Lexinton Rig Inc,CEO,62,Facebook,Qualified
+18165692,2013,Gooyer,Chief of Digital Marketing,39,Email,Contacting
+18620439,2009,Regalchain,Business Analyst,95,Webinar,Open
+18943996,2004,WestLand's Incorporated,Financial Analyst,65,Twitter,Qualified
+18242999,2000,Marxel,Director of Marketing,53,Instagram,Closed
+18954128,2019,Polymeris,Chief of Digital Marketing,75,Email,Qualified
+18436980,2009,Gooyer,VP of Business,71,LinkedIn,Contacting
+18620047,2000,HeidieX,Procurement Manager,53,LinkedIn,Open
+18792215,2016,Regalchain,Business Analyst,50,Website,Open
+18264689,2009,Polymeris,CEO,76,Website,Open
+18300411,2019,Regalchain,Manager of Business Development,49,Webinar,Closed
+18932992,2013,Bryxham,Financial Analyst,86,Webinar,Closed
+18918035,2004,Landon's  ,VP of Business,54,Webinar,Contacting
+18762899,2000,Circuit City,Data Scientist,67,Webinar,Closed
+18446271,2000,Gooyer,Business Analyst,69,Twitter,Open
+18143136,2019,Brock Tech,VP of Business,77,Webinar,Qualified
+18233772,2016,Myxable Co.,Senior Director of B2B Marketing,61,Webinar,Qualified
+18372106,2009,HeidieX,Director of Marketing,80,Instagram,Contacting
+18693046,2016,Brock Tech,Business Analyst,84,LinkedIn,Contacting
+18891168,2001,Gooyer,Head of Human Resources,65,Instagram,Closed
+18731194,2004,Marxel,Financial Analyst,86,LinkedIn,Qualified
+18778303,2009,HeidieX,Manager of Business Development,63,Twitter,Contacting
+18923987,2009,Bryxham,VP of Business,48,Instagram,Contacting
+18598154,2005,Polymeris,Director of Marketing,86,LinkedIn,Closed
+18984920,2000,WestLand's Incorporated,VP of Daily Operations,55,Website,Contacting
+18342235,2013,Polymeris,Data Scientist,51,Email,Open
+18615748,2013,WestLand's Incorporated,Data Scientist,49,Twitter,Contacting
+18590868,2019,Gooyer,Manager of Business Development,81,Webinar,Closed
+18587623,2019,WestLand's Incorporated,Contingent Worker,87,Webinar,Closed
+18741756,2000,Circuit City,Contingent Worker,81,Email,Open
+18967042,2019,Circuit City,CEO,47,Email,Contacting
+18531680,2009,Polymeris,Business Analyst,48,Email,Closed
+18605416,2009,Brock Tech,Data Scientist,37,Website,Contacting
+18415672,2009,Polymeris,Senior Director of B2B Marketing,97,Website,Open
+18971599,2001,Bryxham,VP of Daily Operations,73,Webinar,Closed
+18503736,2019,Circuit City,Manager of Business Development,65,Facebook,Open
+18909691,2005,Bryxham,Procurement Manager,88,Instagram,Contacting
+18247786,2005,Bryxham,VP of Business,87,Email,Open
+18164603,2016,Myxable Co.,Business Analyst,90,Webinar,Qualified
+18338988,2009,Brock Tech,Head of Human Resources,86,Website,Qualified
+18183727,2009,Regalchain,VP of Business,95,Email,Open
+18809282,2016,WestLand's Incorporated,Chief of Digital Marketing,43,Twitter,Qualified
+18825112,2009,Marxel,President,92,Webinar,Qualified
+18560710,2009,Marxel,CEO,72,Website,Open
+18900392,2013,Bryxham,Director of Marketing,49,Facebook,Open
+18370752,2016,Landon's  ,President,72,LinkedIn,Open
+18524658,2001,Landon's  ,President,61,Website,Open
+18398171,2013,Circuit City,Financial Analyst,41,Website,Open
+18753972,2005,WestLand's Incorporated,Manager of Business Development,38,Webinar,Qualified
+18322412,2009,HeidieX,Director of Marketing,58,Facebook,Contacting
+18635197,2019,HeidieX,Chief of Digital Marketing,49,Twitter,Closed
+18151552,2013,Myxable Co.,Procurement Manager,92,Twitter,Contacting
+18481285,2004,Gooyer,Data Scientist,86,Twitter,Qualified
+18911757,2004,Lexinton Rig Inc,Senior Director of B2B Marketing,43,Facebook,Closed
+18135109,2005,Gooyer,Senior Director of B2B Marketing,69,LinkedIn,Closed
+18503357,2000,Gooyer,Business Analyst,42,Twitter,Open
+18852342,2019,Marxel,Director of Marketing,83,LinkedIn,Contacting
+18496195,2019,Regalchain,Director of Marketing,41,Webinar,Qualified
+18443087,2000,Landon's  ,President,71,Email,Qualified
+18957822,2013,Polymeris,Head of Learning and Development,48,LinkedIn,Contacting
+18650243,2000,Polymeris,Procurement Manager,50,Instagram,Closed
+18318702,2019,Marxel,President,71,Facebook,Contacting
+18793851,2009,Regalchain,Contingent Worker,94,Website,Closed
+18453645,2009,Circuit City,Head of Learning and Development,54,Twitter,Qualified
+18727721,2013,Landon's  ,Head of Human Resources,41,LinkedIn,Open
+18150702,2013,Polymeris,President,48,LinkedIn,Contacting
+18804593,2000,Gooyer,Data Scientist,91,Website,Qualified
+18232057,2000,Marxel,VP of Business,90,Facebook,Qualified
+18616571,2004,Brock Tech,President,84,Webinar,Contacting
+18740405,2016,Circuit City,Business Analyst,69,LinkedIn,Closed
+18669341,2004,Circuit City,Chief of Digital Marketing,66,Email,Open
+18604666,2009,Gooyer,Financial Analyst,38,Email,Contacting
+18196334,2004,Regalchain,Head of Human Resources,78,Webinar,Contacting
+18244097,2009,HeidieX,Head of Human Resources,61,Facebook,Qualified
+18206675,2001,Brock Tech,Chief of Digital Marketing,71,Instagram,Contacting
+18912002,2004,Bryxham,Head of Learning and Development,54,Email,Qualified
+18589878,2019,Gooyer,Head of Learning and Development,53,Website,Closed
+18221066,2001,Brock Tech,Senior Director of B2B Marketing,45,LinkedIn,Open
+18142827,2013,HeidieX,CEO,76,Email,Open
+18756198,2000,Lexinton Rig Inc,VP of Business,36,Website,Closed
+18821344,2019,WestLand's Incorporated,Procurement Manager,71,Twitter,Contacting
+18819595,2013,HeidieX,Head of Human Resources,78,Email,Qualified
+18269790,2009,Gooyer,VP of Daily Operations,92,Twitter,Contacting
+18289546,2005,Polymeris,Manager of Business Development,62,Website,Contacting
+18271714,2019,Myxable Co.,Manager of Business Development,74,Website,Closed
+18551974,2009,Myxable Co.,Chief of Digital Marketing,76,Website,Qualified
+18932823,2000,Circuit City,Business Analyst,80,Webinar,Contacting
+18767075,2009,Myxable Co.,Director of Marketing,76,Email,Contacting
+18895536,2009,Gooyer,Senior Director of B2B Marketing,47,Webinar,Contacting
+18633311,2013,WestLand's Incorporated,VP of Business,71,Instagram,Open
+18205071,2004,Brock Tech,Manager of Business Development,74,LinkedIn,Closed
+18862377,2001,Lexinton Rig Inc,Head of Human Resources,90,Website,Contacting
+18655481,2009,Gooyer,Data Scientist,77,Twitter,Contacting
+18790360,2019,WestLand's Incorporated,Data Scientist,62,LinkedIn,Open
+18317275,2013,Lexinton Rig Inc,Head of Learning and Development,96,LinkedIn,Closed
+18301592,2009,Regalchain,Senior Director of B2B Marketing,78,Website,Closed
+18432721,2000,Regalchain,Chief of Digital Marketing,66,Webinar,Qualified
+18829991,2009,Lexinton Rig Inc,Chief of Digital Marketing,37,Facebook,Closed
+18810743,2019,HeidieX,CEO,78,Facebook,Contacting
+19003166,2016,Circuit City,CEO,96,Email,Qualified
+18200605,2013,Brock Tech,VP of Business,80,Twitter,Closed
+18695198,2016,Brock Tech,Chief of Digital Marketing,69,Facebook,Contacting
+18463610,2013,WestLand's Incorporated,Senior Director of B2B Marketing,65,Twitter,Open
+18886519,2000,Gooyer,Contingent Worker,41,Twitter,Qualified
+18393873,2016,Circuit City,Chief of Digital Marketing,98,LinkedIn,Open
+18561133,2001,Brock Tech,CEO,41,Webinar,Qualified
+19005785,2009,Lexinton Rig Inc,Data Scientist,82,Facebook,Contacting
+18150499,2019,Landon's  ,Chief of Digital Marketing,90,Twitter,Open
+18369074,2001,Gooyer,VP of Daily Operations,70,Instagram,Contacting
+18583991,2000,Myxable Co.,Financial Analyst,91,Instagram,Closed
+18591212,2005,Lexinton Rig Inc,Head of Learning and Development,37,Twitter,Open
+18179834,2000,Brock Tech,Manager of Business Development,62,Twitter,Qualified
+18645693,2013,Gooyer,VP of Business,65,Instagram,Contacting
+18414114,2009,Lexinton Rig Inc,Financial Analyst,58,Webinar,Open
+18212704,2016,Polymeris,Financial Analyst,73,Email,Closed
+18662181,2019,Polymeris,Data Scientist,69,Webinar,Closed
+18728516,2005,Gooyer,Head of Human Resources,60,Instagram,Contacting
+18491772,2001,Marxel,Director of Marketing,64,Webinar,Qualified
+18517159,2005,Polymeris,Contingent Worker,46,Instagram,Qualified
+19005213,2013,WestLand's Incorporated,Manager of Business Development,86,Website,Closed
+18932373,2009,Circuit City,Manager of Business Development,67,Website,Qualified
+18774383,2016,Landon's  ,Data Scientist,85,Email,Open
+18232880,2005,Lexinton Rig Inc,President,77,Email,Closed
+18445080,2009,Bryxham,Chief of Digital Marketing,43,Email,Qualified
+18252266,2005,Landon's  ,Contingent Worker,49,Website,Closed
+18386205,2005,Circuit City,Financial Analyst,88,Instagram,Qualified
+18231087,2000,Marxel,Head of Learning and Development,39,Facebook,Open
+18491409,2001,Brock Tech,VP of Daily Operations,77,Email,Open
+18868721,2016,Circuit City,VP of Daily Operations,67,Instagram,Qualified
+18388152,2004,WestLand's Incorporated,Data Scientist,60,Instagram,Contacting
+18818998,2019,Bryxham,Procurement Manager,45,Twitter,Contacting
+18555465,2004,Marxel,Senior Director of B2B Marketing,70,Email,Open
+18400452,2000,Bryxham,Procurement Manager,54,LinkedIn,Open
+18344588,2000,Landon's  ,Manager of Business Development,57,Twitter,Contacting
+18372663,2019,WestLand's Incorporated,Director of Marketing,93,Website,Open
+18952597,2019,WestLand's Incorporated,Business Analyst,53,Instagram,Open
+18535121,2013,Regalchain,Contingent Worker,82,Facebook,Closed
+18421225,2009,Polymeris,Head of Learning and Development,42,Instagram,Open
+18696056,2019,Brock Tech,CEO,64,Facebook,Qualified
+18463282,2019,Polymeris,CEO,75,Email,Contacting
+18515947,2001,WestLand's Incorporated,Contingent Worker,97,Instagram,Qualified
+18654460,2000,Regalchain,Financial Analyst,73,Facebook,Qualified
+18809296,2013,Myxable Co.,Data Scientist,86,Webinar,Open
+18717323,2013,Regalchain,Head of Human Resources,47,Website,Contacting
+18822566,2000,Circuit City,Procurement Manager,94,Twitter,Qualified
+18386184,2005,Myxable Co.,Data Scientist,51,Instagram,Contacting
+18475242,2013,Polymeris,VP of Business,36,Website,Qualified
+18172538,2016,Bryxham,President,94,Webinar,Open
+18886984,2013,WestLand's Incorporated,VP of Business,94,Email,Open
+18597928,2005,Bryxham,Financial Analyst,90,Twitter,Qualified
+18880709,2001,Gooyer,Contingent Worker,46,Facebook,Open
+18287944,2013,WestLand's Incorporated,Senior Director of B2B Marketing,74,Facebook,Contacting
+18399748,2005,WestLand's Incorporated,Chief of Digital Marketing,96,LinkedIn,Contacting
+18508736,2019,Bryxham,Senior Director of B2B Marketing,55,Facebook,Open
+18455138,2016,Lexinton Rig Inc,Data Scientist,57,Website,Open
+18401289,2013,Landon's  ,Business Analyst,76,Email,Qualified
+18657878,2016,WestLand's Incorporated,Director of Marketing,39,Twitter,Closed
+18823024,2000,Bryxham,President,44,Twitter,Open
+18859744,2005,Lexinton Rig Inc,Business Analyst,46,Instagram,Contacting
+18323105,2001,Brock Tech,Data Scientist,84,Facebook,Closed
+18973953,2019,WestLand's Incorporated,Head of Learning and Development,76,Webinar,Contacting
+18668914,2005,HeidieX,Manager of Business Development,92,Twitter,Closed
+18484419,2013,Brock Tech,Financial Analyst,37,Webinar,Open
+18560032,2001,Landon's  ,Head of Human Resources,59,Webinar,Contacting
+18516477,2004,Brock Tech,VP of Business,60,Twitter,Qualified
+18548384,2004,Polymeris,Financial Analyst,68,LinkedIn,Contacting
+18663924,2004,HeidieX,Director of Marketing,82,Website,Closed
+18912744,2000,WestLand's Incorporated,Financial Analyst,93,Webinar,Closed
+18757794,2005,Marxel,Head of Human Resources,87,Webinar,Contacting
+18451634,2004,Myxable Co.,Senior Director of B2B Marketing,39,Email,Qualified
+18818149,2005,WestLand's Incorporated,Manager of Business Development,78,Instagram,Contacting
+18183983,2009,Landon's  ,Data Scientist,60,LinkedIn,Open
+18664600,2001,Circuit City,Head of Learning and Development,43,Email,Open
+18642424,2005,HeidieX,VP of Daily Operations,73,Webinar,Closed
+18588118,2004,Marxel,Chief of Digital Marketing,46,LinkedIn,Contacting
+18316302,2019,Landon's  ,Data Scientist,84,Facebook,Contacting
+18839447,2005,WestLand's Incorporated,Financial Analyst,82,Website,Open
+18296510,2009,Marxel,Financial Analyst,80,Email,Open
+18530212,2019,Regalchain,Contingent Worker,85,Email,Qualified
+18366695,2000,Brock Tech,Business Analyst,71,Email,Qualified
+18487417,2019,Brock Tech,Head of Human Resources,41,Facebook,Contacting
+18730015,2019,Myxable Co.,Data Scientist,55,Twitter,Open
+18234803,2004,Lexinton Rig Inc,Head of Learning and Development,39,Webinar,Closed
+18897437,2019,Landon's  ,Financial Analyst,82,Webinar,Contacting
+18723125,2009,Polymeris,Data Scientist,62,Webinar,Closed
+18964521,2009,Landon's  ,Head of Learning and Development,84,Email,Contacting
+18380737,2005,Gooyer,Data Scientist,90,Instagram,Qualified
+18805204,2005,HeidieX,Chief of Digital Marketing,94,Twitter,Open
+18871410,2013,Brock Tech,Head of Human Resources,91,Webinar,Contacting
+18904762,2001,Regalchain,Head of Learning and Development,95,Website,Qualified
+18342233,2004,Bryxham,Director of Marketing,75,LinkedIn,Contacting
+18323923,2019,HeidieX,VP of Business,83,LinkedIn,Closed
+18269116,2019,Lexinton Rig Inc,VP of Daily Operations,58,Website,Contacting
+18682305,2019,Brock Tech,Senior Director of B2B Marketing,65,Webinar,Closed
+18994323,2004,Circuit City,Senior Director of B2B Marketing,96,Twitter,Closed
+18462655,2016,Landon's  ,Business Analyst,70,Email,Open
+18336474,2016,HeidieX,Contingent Worker,68,LinkedIn,Contacting
+18965030,2009,Polymeris,Director of Marketing,40,Email,Closed
+18635816,2004,Polymeris,Data Scientist,66,Facebook,Closed
+18365308,2016,Bryxham,VP of Business,68,LinkedIn,Contacting
+18733308,2000,Polymeris,Business Analyst,39,Facebook,Closed
+18276022,2005,Circuit City,Data Scientist,63,Instagram,Open
+18580811,2005,Gooyer,Data Scientist,93,Webinar,Closed
+18569490,2004,Gooyer,Business Analyst,51,Twitter,Closed
+18479861,2009,Gooyer,Senior Director of B2B Marketing,71,Webinar,Open
+18345240,2000,Regalchain,Procurement Manager,41,Email,Contacting
+18449798,2000,Lexinton Rig Inc,Senior Director of B2B Marketing,54,Twitter,Open
+18343556,2000,Bryxham,President,73,Twitter,Open
+18603217,2000,Brock Tech,VP of Daily Operations,41,LinkedIn,Open
+18540997,2004,WestLand's Incorporated,Financial Analyst,97,Instagram,Qualified
+18816658,2016,Circuit City,Procurement Manager,46,Facebook,Closed
+18753984,2009,Marxel,VP of Daily Operations,69,Twitter,Contacting
+18540455,2019,Regalchain,Head of Learning and Development,89,Webinar,Contacting
+18602589,2001,Bryxham,Procurement Manager,85,Twitter,Open
+18907446,2000,Brock Tech,VP of Daily Operations,41,Twitter,Qualified
+18947851,2019,Gooyer,Contingent Worker,76,Twitter,Closed
+18188315,2001,Myxable Co.,President,79,Webinar,Open
+18669840,2000,Brock Tech,Data Scientist,67,Instagram,Qualified
+19002244,2001,Marxel,CEO,81,Facebook,Open
+18286148,2013,Brock Tech,Chief of Digital Marketing,52,Facebook,Closed
+18193319,2009,Polymeris,Senior Director of B2B Marketing,41,Webinar,Open
+18496890,2009,Myxable Co.,Data Scientist,86,Website,Open
+18252284,2004,Bryxham,VP of Daily Operations,90,Webinar,Closed
+18525181,2004,Myxable Co.,Head of Human Resources,73,Email,Qualified
+18204065,2005,Brock Tech,Contingent Worker,52,Website,Closed
+18304778,2000,HeidieX,Procurement Manager,83,Email,Closed
+18333324,2005,Brock Tech,President,61,Email,Contacting
+19009953,2019,WestLand's Incorporated,Financial Analyst,54,Webinar,Qualified
+18160746,2019,Landon's  ,Director of Marketing,61,Instagram,Contacting
+18479752,2013,WestLand's Incorporated,Data Scientist,57,Email,Closed
+18289880,2016,Brock Tech,VP of Daily Operations,95,Email,Open
+18752624,2019,Polymeris,Data Scientist,60,Facebook,Closed
+18543370,2013,Brock Tech,Financial Analyst,97,Facebook,Closed
+18302652,2009,Brock Tech,Manager of Business Development,91,Twitter,Closed
+18864528,2016,HeidieX,President,98,Twitter,Closed
+18462648,2001,Lexinton Rig Inc,Procurement Manager,72,LinkedIn,Open
+18924692,2009,Bryxham,CEO,68,LinkedIn,Qualified
+18153308,2001,Bryxham,Chief of Digital Marketing,59,Email,Qualified
+18648293,2004,Marxel,Contingent Worker,48,Webinar,Qualified
+18425042,2001,Landon's  ,VP of Business,80,Email,Qualified
+18727293,2019,Polymeris,Head of Human Resources,92,Instagram,Qualified
+18690068,2016,HeidieX,Contingent Worker,80,Facebook,Contacting
+18648566,2019,Bryxham,Head of Learning and Development,37,LinkedIn,Qualified
+18768927,2005,WestLand's Incorporated,Senior Director of B2B Marketing,91,Twitter,Contacting
+18866356,2013,Marxel,Contingent Worker,85,Twitter,Closed
+18965532,2004,Myxable Co.,VP of Business,48,Website,Open
+18261781,2019,Gooyer,President,58,Instagram,Closed
+18868256,2019,Brock Tech,Business Analyst,52,LinkedIn,Qualified
+18768139,2009,Lexinton Rig Inc,Contingent Worker,64,Facebook,Contacting
+18516420,2004,Landon's  ,Contingent Worker,93,Twitter,Open
+18328687,2005,WestLand's Incorporated,Head of Human Resources,85,Website,Closed
+18332309,2016,Gooyer,Senior Director of B2B Marketing,40,LinkedIn,Qualified
+18132361,2000,Gooyer,Procurement Manager,37,Website,Qualified
+18671376,2019,Gooyer,Chief of Digital Marketing,74,Instagram,Contacting
+18650524,2016,WestLand's Incorporated,Director of Marketing,50,Email,Open
+18971049,2000,Polymeris,Senior Director of B2B Marketing,68,LinkedIn,Contacting
+18198164,2001,Circuit City,Director of Marketing,50,Facebook,Closed
+18704611,2005,Marxel,Director of Marketing,81,Facebook,Contacting
+18825542,2016,HeidieX,Director of Marketing,46,Website,Open
+18616713,2000,HeidieX,Procurement Manager,95,Instagram,Open
+19007246,2001,Circuit City,Director of Marketing,46,Facebook,Closed
+18478790,2019,WestLand's Incorporated,Business Analyst,62,Twitter,Contacting
+18575623,2013,Bryxham,Contingent Worker,81,Facebook,Open
+18404115,2004,Bryxham,Chief of Digital Marketing,39,LinkedIn,Qualified
+18781639,2013,WestLand's Incorporated,Contingent Worker,58,Facebook,Open
+18459403,2001,Brock Tech,Manager of Business Development,88,Website,Open
+18779002,2019,Brock Tech,VP of Daily Operations,54,Twitter,Qualified
+18256230,2013,Lexinton Rig Inc,Contingent Worker,76,Facebook,Contacting
+18474313,2005,Circuit City,President,37,Facebook,Contacting
+18331843,2019,Marxel,VP of Business,84,Email,Contacting
+18919852,2004,WestLand's Incorporated,Director of Marketing,86,Webinar,Closed
+18171836,2009,Marxel,Financial Analyst,78,Facebook,Open
+18654153,2005,Marxel,Data Scientist,82,Email,Open
+18466135,2009,Brock Tech,Head of Learning and Development,74,Webinar,Contacting
+18576710,2013,Brock Tech,President,88,Webinar,Qualified
+18317564,2000,Regalchain,Financial Analyst,93,Website,Contacting
+18370220,2013,Regalchain,Chief of Digital Marketing,66,LinkedIn,Contacting
+18403527,2000,Circuit City,Head of Human Resources,88,Facebook,Closed
+18775727,2001,Marxel,Director of Marketing,94,Email,Qualified
+18661001,2005,Myxable Co.,Manager of Business Development,68,Webinar,Contacting
+18580459,2005,Bryxham,Manager of Business Development,94,Instagram,Contacting
+18961146,2016,Landon's  ,Financial Analyst,62,Website,Open
+18667908,2000,Gooyer,Business Analyst,44,Twitter,Qualified
+18397165,2004,Regalchain,Financial Analyst,79,Twitter,Open
+18557576,2001,Circuit City,Contingent Worker,74,Webinar,Contacting
+18841307,2013,WestLand's Incorporated,CEO,88,Website,Contacting
+18478698,2000,Circuit City,Director of Marketing,38,Twitter,Qualified
+18466555,2001,Marxel,Manager of Business Development,57,Instagram,Qualified
+18636499,2016,Lexinton Rig Inc,VP of Business,98,Facebook,Closed
+18845325,2016,Gooyer,Director of Marketing,52,Twitter,Open
+18792780,2009,HeidieX,Procurement Manager,54,Facebook,Qualified
+18445559,2000,HeidieX,Manager of Business Development,71,LinkedIn,Qualified
+18403892,2005,Lexinton Rig Inc,Director of Marketing,81,Twitter,Closed
+18400140,2009,Myxable Co.,Head of Learning and Development,53,Webinar,Open
+18249336,2005,HeidieX,Business Analyst,63,Website,Qualified
+18958031,2016,Circuit City,Contingent Worker,44,Website,Closed
+18224807,2013,Bryxham,VP of Daily Operations,78,LinkedIn,Qualified
+18321453,2001,Polymeris,President,78,Twitter,Contacting
+18177095,2001,Bryxham,Contingent Worker,90,Email,Contacting
+18594031,2004,WestLand's Incorporated,Manager of Business Development,97,LinkedIn,Open
+18951238,2000,Myxable Co.,Financial Analyst,44,LinkedIn,Qualified
+18226672,2016,Brock Tech,Director of Marketing,94,Website,Qualified
+18465766,2016,WestLand's Incorporated,Financial Analyst,63,Facebook,Contacting
+18146866,2019,Lexinton Rig Inc,Senior Director of B2B Marketing,48,Facebook,Open
+18441313,2013,Gooyer,Director of Marketing,56,Twitter,Closed
+18512804,2009,Landon's  ,Manager of Business Development,73,Facebook,Open
+18697984,2013,Gooyer,Business Analyst,58,Email,Contacting
+18382847,2004,WestLand's Incorporated,Procurement Manager,44,Instagram,Open
+18235399,2019,HeidieX,Financial Analyst,51,Instagram,Contacting
+18658142,2000,Myxable Co.,Director of Marketing,78,Email,Contacting
+18948777,2004,Polymeris,Head of Human Resources,79,Instagram,Contacting
+18517957,2016,Lexinton Rig Inc,Head of Learning and Development,65,Webinar,Contacting
+18593817,2000,Bryxham,Director of Marketing,96,Email,Open
+18989012,2013,Marxel,Financial Analyst,97,LinkedIn,Closed
+18263914,2000,Brock Tech,Chief of Digital Marketing,59,Webinar,Open
+18695501,2019,Myxable Co.,Chief of Digital Marketing,62,Instagram,Qualified
+18202243,2000,Circuit City,Head of Learning and Development,80,Twitter,Contacting
+18865629,2009,Gooyer,Head of Learning and Development,77,Website,Closed
+18685226,2019,Landon's  ,Business Analyst,81,Twitter,Open
+18806521,2009,Marxel,Business Analyst,83,Webinar,Closed
+18474854,2019,WestLand's Incorporated,VP of Business,70,Email,Qualified
+18910415,2013,Lexinton Rig Inc,VP of Business,51,Twitter,Contacting
+18890043,2005,Landon's  ,President,92,Facebook,Contacting
+18267865,2005,Bryxham,Manager of Business Development,58,Twitter,Open
+18962944,2004,Circuit City,VP of Daily Operations,38,Email,Closed
+18228248,2004,Marxel,Procurement Manager,37,Website,Qualified
+18688455,2009,Bryxham,Head of Learning and Development,58,Email,Closed
+18579232,2019,Bryxham,Business Analyst,86,Email,Qualified
+18797285,2013,Bryxham,Contingent Worker,43,Instagram,Contacting
+18261360,2016,WestLand's Incorporated,Senior Director of B2B Marketing,91,Webinar,Contacting
+18458721,2019,Circuit City,Procurement Manager,54,Website,Contacting
+18540441,2005,Bryxham,Data Scientist,79,Twitter,Qualified
+18427494,2000,Myxable Co.,Director of Marketing,76,LinkedIn,Closed
+18167188,2013,Gooyer,Data Scientist,56,Email,Closed
+18199986,2000,Marxel,Procurement Manager,96,Instagram,Closed
+18471053,2004,Brock Tech,CEO,46,Email,Qualified
+18195084,2013,Myxable Co.,Senior Director of B2B Marketing,51,Twitter,Closed
+18157895,2009,Bryxham,Data Scientist,97,Webinar,Open
+18355104,2004,WestLand's Incorporated,Head of Learning and Development,53,Email,Open
+18538164,2013,Myxable Co.,Business Analyst,81,Website,Open
+18445225,2000,Polymeris,CEO,93,Facebook,Closed
+18650187,2013,Myxable Co.,Manager of Business Development,64,Twitter,Contacting
+18553989,2009,Lexinton Rig Inc,VP of Daily Operations,58,Email,Closed
+18872195,2013,Myxable Co.,Head of Human Resources,45,Instagram,Open
+18220665,2009,Lexinton Rig Inc,Manager of Business Development,45,LinkedIn,Closed
+18943418,2004,Polymeris,Business Analyst,68,LinkedIn,Closed
+18676864,2004,Polymeris,VP of Daily Operations,94,Email,Contacting
+18231682,2019,Myxable Co.,Senior Director of B2B Marketing,48,LinkedIn,Closed
+18687986,2009,Bryxham,Data Scientist,51,Email,Open
+18959871,2000,Lexinton Rig Inc,Business Analyst,82,Email,Closed
+18415687,2001,WestLand's Incorporated,Head of Learning and Development,62,Website,Closed
+18857136,2019,Polymeris,Contingent Worker,90,Instagram,Contacting
+18561393,2004,Gooyer,Business Analyst,77,Webinar,Closed
+18270222,2016,HeidieX,Financial Analyst,42,Email,Qualified
+18946440,2013,Marxel,Senior Director of B2B Marketing,36,Email,Qualified
+18566907,2004,Polymeris,VP of Business,61,LinkedIn,Open
+18751097,2001,Gooyer,Procurement Manager,69,LinkedIn,Open
+18634897,2009,Marxel,Head of Human Resources,85,Email,Closed
+18474838,2019,Regalchain,Head of Learning and Development,77,Website,Closed
+18288675,2000,WestLand's Incorporated,Contingent Worker,37,Instagram,Closed
+18272390,2013,Brock Tech,VP of Daily Operations,38,Facebook,Qualified
+18902203,2000,Circuit City,Business Analyst,88,Email,Open
+18981616,2016,Landon's  ,Head of Human Resources,80,Website,Closed
+18858126,2016,Lexinton Rig Inc,Head of Learning and Development,81,Website,Open
+18601518,2013,HeidieX,CEO,60,Twitter,Contacting
+18950950,2005,Myxable Co.,Head of Learning and Development,43,Email,Open
+18693825,2016,WestLand's Incorporated,Senior Director of B2B Marketing,61,LinkedIn,Qualified
+18817286,2005,Bryxham,Director of Marketing,88,LinkedIn,Closed
+18204483,2016,Myxable Co.,Data Scientist,53,LinkedIn,Closed
+18597880,2019,WestLand's Incorporated,Contingent Worker,66,Twitter,Open
+18767743,2013,Landon's  ,Business Analyst,86,Instagram,Contacting
+18481007,2009,HeidieX,Contingent Worker,94,Facebook,Open
+18987649,2004,HeidieX,Business Analyst,86,Facebook,Qualified
+18347381,2004,Myxable Co.,Data Scientist,78,Twitter,Open
+18253605,2000,Marxel,VP of Business,56,Twitter,Open
+18512937,2016,Myxable Co.,Procurement Manager,73,Facebook,Open
+18751351,2000,Circuit City,Head of Human Resources,38,Website,Contacting
+18168341,2000,Gooyer,Chief of Digital Marketing,77,Facebook,Closed
+18381972,2013,HeidieX,Procurement Manager,70,Facebook,Closed
+18549849,2019,Regalchain,CEO,40,Twitter,Qualified
+18853246,2019,Marxel,CEO,85,LinkedIn,Open
+18739958,2009,Regalchain,VP of Business,71,Website,Contacting
+18443963,2000,Gooyer,Head of Human Resources,74,Facebook,Open
+18928143,2001,Marxel,Business Analyst,98,Facebook,Contacting
+18922346,2000,Myxable Co.,Manager of Business Development,47,LinkedIn,Qualified
+18619562,2009,Circuit City,Contingent Worker,75,Facebook,Closed
+18297296,2000,Polymeris,Director of Marketing,69,Twitter,Contacting
+18797411,2001,Brock Tech,Chief of Digital Marketing,52,Twitter,Open
+18193926,2019,Regalchain,Head of Learning and Development,36,Facebook,Qualified
+18760348,2013,Polymeris,Senior Director of B2B Marketing,44,Instagram,Closed
+18327216,2009,Bryxham,Contingent Worker,73,Twitter,Qualified
+18247337,2019,Gooyer,CEO,93,Email,Contacting
+18478837,2013,Landon's  ,Chief of Digital Marketing,70,Email,Contacting
+18569589,2000,Polymeris,President,77,Facebook,Open
+18704037,2001,Polymeris,Data Scientist,82,Twitter,Closed
+18346382,2013,Regalchain,President,46,Twitter,Open
+18884025,2009,HeidieX,Manager of Business Development,79,LinkedIn,Contacting
+18273846,2000,HeidieX,CEO,96,Website,Closed
+18462892,2004,Brock Tech,Business Analyst,69,Webinar,Open
+18706673,2019,Bryxham,Financial Analyst,73,Facebook,Open
+18465743,2009,Bryxham,Data Scientist,91,Webinar,Closed
+18532627,2000,Marxel,Contingent Worker,58,LinkedIn,Qualified
+18746473,2005,WestLand's Incorporated,VP of Business,68,Email,Closed
+18386066,2005,Lexinton Rig Inc,Manager of Business Development,57,Facebook,Qualified
+18602345,2016,Landon's  ,Procurement Manager,58,Facebook,Closed
+18537070,2013,Marxel,Head of Learning and Development,42,Website,Contacting
+18322686,2013,Lexinton Rig Inc,Financial Analyst,83,Instagram,Qualified
+18733650,2005,Brock Tech,Director of Marketing,70,Instagram,Qualified
+18481307,2016,Circuit City,VP of Daily Operations,70,Instagram,Qualified
+18455101,2005,WestLand's Incorporated,VP of Daily Operations,70,Instagram,Contacting
+18237565,2000,Bryxham,Contingent Worker,44,Instagram,Qualified
+18313243,2019,Lexinton Rig Inc,Senior Director of B2B Marketing,63,Webinar,Qualified
+18925154,2019,Bryxham,Senior Director of B2B Marketing,45,Website,Open
+18852461,2009,Landon's  ,Manager of Business Development,37,Webinar,Qualified
+18942140,2016,Regalchain,Manager of Business Development,56,LinkedIn,Open
+18772188,2013,Brock Tech,Director of Marketing,46,LinkedIn,Closed
+18182923,2001,WestLand's Incorporated,Business Analyst,75,Twitter,Qualified
+18493806,2004,Marxel,Financial Analyst,77,Website,Contacting
+18163825,2004,WestLand's Incorporated,Head of Learning and Development,69,Website,Closed
+18193654,2005,HeidieX,President,52,Twitter,Contacting
+18132131,2005,Circuit City,Chief of Digital Marketing,57,Twitter,Qualified
+18618297,2004,Regalchain,Senior Director of B2B Marketing,71,LinkedIn,Contacting
+18338515,2000,Bryxham,VP of Daily Operations,76,Twitter,Contacting
+18603616,2001,Marxel,Manager of Business Development,46,LinkedIn,Closed
+18778203,2000,Lexinton Rig Inc,VP of Business,37,LinkedIn,Contacting
+18488608,2019,Marxel,Contingent Worker,50,Instagram,Qualified
+18305294,2016,Marxel,Chief of Digital Marketing,47,Instagram,Closed
+18143475,2005,Myxable Co.,Head of Human Resources,44,Email,Contacting
+18226212,2016,Myxable Co.,Chief of Digital Marketing,83,Webinar,Open
+18190521,2009,Regalchain,Chief of Digital Marketing,42,LinkedIn,Qualified
+18558251,2000,Circuit City,Head of Human Resources,76,Webinar,Open
+18759824,2013,Gooyer,Manager of Business Development,48,Facebook,Closed
+18398150,2000,Myxable Co.,Manager of Business Development,60,Email,Contacting
+18237245,2019,WestLand's Incorporated,Director of Marketing,47,Twitter,Open
+18799365,2004,Polymeris,CEO,82,Twitter,Qualified
+18674759,2019,Circuit City,Head of Human Resources,72,Webinar,Qualified
+18614595,2005,Circuit City,Chief of Digital Marketing,94,Email,Open
+18863289,2005,WestLand's Incorporated,CEO,46,Facebook,Contacting
+18628378,2005,Marxel,Data Scientist,97,LinkedIn,Contacting
+18969330,2005,Polymeris,Business Analyst,58,Instagram,Contacting
+18936497,2005,Bryxham,Contingent Worker,67,Facebook,Closed
+18415762,2004,Regalchain,VP of Daily Operations,55,Facebook,Qualified
+18960699,2001,Lexinton Rig Inc,Contingent Worker,76,Instagram,Open
+18873049,2004,Marxel,Head of Human Resources,47,Website,Closed
+18318035,2009,WestLand's Incorporated,Manager of Business Development,54,Instagram,Contacting
+18529670,2005,Marxel,VP of Business,87,Twitter,Contacting
+18649765,2004,Marxel,Head of Learning and Development,82,Email,Open
+18862044,2016,Myxable Co.,Contingent Worker,67,Website,Contacting
+18241941,2019,Bryxham,Head of Learning and Development,73,LinkedIn,Open
+18771789,2005,Landon's  ,Senior Director of B2B Marketing,63,Email,Closed
+18671624,2005,Landon's  ,Senior Director of B2B Marketing,93,Website,Contacting
+18175600,2000,Polymeris,Head of Learning and Development,97,Facebook,Closed
+18908402,2016,Gooyer,Senior Director of B2B Marketing,86,Email,Contacting
+18850745,2016,Myxable Co.,CEO,53,Facebook,Contacting
+18955524,2001,Myxable Co.,Business Analyst,56,LinkedIn,Open
+18301376,2000,Regalchain,Director of Marketing,92,LinkedIn,Open
+18808716,2016,Bryxham,Head of Human Resources,84,Facebook,Qualified
+18209787,2016,Bryxham,Head of Learning and Development,54,Facebook,Contacting
+18435024,2009,HeidieX,VP of Business,53,Instagram,Closed
+18366225,2001,Regalchain,Senior Director of B2B Marketing,97,Webinar,Qualified
+18746496,2005,Marxel,Manager of Business Development,59,Instagram,Open
+18931853,2013,Regalchain,Financial Analyst,95,Webinar,Contacting
+18414905,2001,Polymeris,Senior Director of B2B Marketing,94,LinkedIn,Qualified
+18135322,2013,Landon's  ,Business Analyst,50,Email,Closed
+18509486,2016,Lexinton Rig Inc,Data Scientist,79,Facebook,Qualified
+18962561,2013,Landon's  ,Procurement Manager,82,LinkedIn,Closed
+18674868,2001,Bryxham,VP of Business,64,Website,Qualified
+18805310,2001,Polymeris,Chief of Digital Marketing,93,LinkedIn,Qualified
+18542342,2013,Circuit City,Head of Learning and Development,46,Website,Contacting
+18494739,2013,Myxable Co.,VP of Business,45,Facebook,Closed
+18516346,2004,Gooyer,Head of Human Resources,45,Twitter,Closed
+18579344,2000,HeidieX,Financial Analyst,50,Twitter,Qualified
+18248642,2005,Bryxham,Data Scientist,77,Twitter,Open
+18702096,2005,Brock Tech,Manager of Business Development,75,Webinar,Closed
+18305773,2004,Brock Tech,Chief of Digital Marketing,53,Website,Qualified
+18687111,2005,Lexinton Rig Inc,President,78,Instagram,Open
+18400734,2001,Brock Tech,VP of Business,43,Facebook,Qualified
+18398420,2000,Regalchain,Data Scientist,45,Twitter,Contacting
+18559478,2019,Brock Tech,Contingent Worker,81,Email,Open
+18518064,2013,Regalchain,Data Scientist,97,LinkedIn,Qualified
+18499024,2013,HeidieX,President,85,Webinar,Contacting
+18213146,2019,Marxel,Financial Analyst,61,Instagram,Closed
+18792128,2009,Lexinton Rig Inc,Senior Director of B2B Marketing,45,LinkedIn,Qualified
+18801073,2004,Marxel,Business Analyst,94,Webinar,Contacting
+18972835,2009,Polymeris,President,71,Webinar,Open
+18865196,2016,Gooyer,Data Scientist,60,Email,Contacting
+18886083,2005,Myxable Co.,Financial Analyst,54,LinkedIn,Open
+18939748,2004,Marxel,Manager of Business Development,72,Website,Contacting
+18175381,2001,WestLand's Incorporated,Contingent Worker,77,Website,Qualified
+18938487,2005,Regalchain,VP of Business,42,Email,Qualified
+18230672,2000,WestLand's Incorporated,Head of Human Resources,44,Webinar,Contacting
+18697927,2016,Myxable Co.,VP of Business,45,Webinar,Open
+18992893,2005,Landon's  ,VP of Daily Operations,88,Email,Closed
+18817062,2019,Regalchain,VP of Business,53,Facebook,Open
+18736218,2001,HeidieX,Head of Human Resources,64,LinkedIn,Closed
+18924251,2019,WestLand's Incorporated,Head of Human Resources,64,Email,Open
+18602361,2009,HeidieX,Manager of Business Development,57,Website,Contacting
+18312965,2019,Gooyer,Senior Director of B2B Marketing,71,Twitter,Qualified
+18599559,2004,Bryxham,Contingent Worker,69,Instagram,Open
+18565352,2004,Circuit City,President,97,Twitter,Contacting
+18855241,2001,Polymeris,Manager of Business Development,51,Facebook,Qualified
+18179431,2005,Polymeris,Procurement Manager,93,LinkedIn,Qualified
+18286273,2005,Regalchain,President,57,Instagram,Closed
+18922574,2016,Lexinton Rig Inc,Director of Marketing,80,LinkedIn,Qualified
+18262100,2004,Polymeris,Chief of Digital Marketing,91,Instagram,Contacting
+18814379,2005,Landon's  ,VP of Business,98,Website,Contacting
+18761941,2019,Myxable Co.,Financial Analyst,69,Website,Qualified
+18159634,2000,HeidieX,Head of Learning and Development,81,Facebook,Qualified
+18426603,2005,Circuit City,VP of Business,38,Instagram,Qualified
+18298402,2013,Landon's  ,Procurement Manager,82,Website,Open
+18299168,2016,Polymeris,Chief of Digital Marketing,90,Twitter,Contacting
+18630851,2019,Gooyer,Financial Analyst,64,Facebook,Closed
+18132610,2009,Lexinton Rig Inc,Business Analyst,66,Website,Closed
+18662794,2004,Circuit City,Head of Human Resources,97,Website,Contacting
+18626998,2013,Brock Tech,Director of Marketing,55,Webinar,Open
+18401697,2001,Bryxham,CEO,84,Webinar,Contacting
+18925738,2019,Myxable Co.,CEO,51,Instagram,Qualified
+18746465,2019,Bryxham,Data Scientist,69,Facebook,Closed
+18648465,2004,Landon's  ,Head of Learning and Development,57,Webinar,Closed
+18476443,2009,Lexinton Rig Inc,Business Analyst,96,Twitter,Qualified
+19005874,2013,Gooyer,Business Analyst,46,Facebook,Qualified
+18393511,2001,Polymeris,Business Analyst,93,Website,Contacting
+18911059,2013,HeidieX,Senior Director of B2B Marketing,70,Facebook,Qualified
+18579801,2009,Brock Tech,VP of Business,39,Instagram,Qualified
+18461927,2004,Brock Tech,Contingent Worker,80,LinkedIn,Open
+18774615,2005,Bryxham,Chief of Digital Marketing,47,Facebook,Qualified
+18207047,2016,Bryxham,Head of Learning and Development,72,Website,Open
+18177723,2005,Lexinton Rig Inc,VP of Business,41,Instagram,Open
+18596113,2005,Brock Tech,President,59,Twitter,Open
+18466163,2005,Brock Tech,VP of Daily Operations,66,Twitter,Qualified
+18390284,2013,Gooyer,Financial Analyst,59,Email,Qualified
+18970096,2016,Marxel,Senior Director of B2B Marketing,71,Twitter,Open
+18933920,2009,HeidieX,Chief of Digital Marketing,50,Email,Qualified
+18423032,2005,WestLand's Incorporated,Chief of Digital Marketing,39,Webinar,Qualified
+18166940,2000,Myxable Co.,Director of Marketing,36,Website,Open
+18799962,2005,Myxable Co.,Manager of Business Development,67,Facebook,Qualified
+18853121,2005,Circuit City,President,52,Email,Open
+18496351,2019,Gooyer,Head of Human Resources,76,Website,Open
+18312598,2019,Polymeris,Data Scientist,54,Facebook,Closed
+18793400,2019,Bryxham,Head of Learning and Development,58,Instagram,Open
+18914375,2019,Marxel,Manager of Business Development,78,LinkedIn,Closed
+18767722,2005,Gooyer,Chief of Digital Marketing,50,Facebook,Open
+18441449,2005,Regalchain,Business Analyst,44,Facebook,Qualified
+18470382,2013,Lexinton Rig Inc,Chief of Digital Marketing,95,Webinar,Closed
+18870666,2005,Marxel,Contingent Worker,98,Instagram,Open
+18938541,2013,Bryxham,Financial Analyst,81,Instagram,Closed
+18646737,2001,Lexinton Rig Inc,Director of Marketing,96,Instagram,Contacting
+18610405,2005,Lexinton Rig Inc,President,38,Webinar,Open
